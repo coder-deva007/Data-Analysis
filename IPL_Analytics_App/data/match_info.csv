@@ -1,0 +1,1096 @@
+match_id,batting_team_1,batsman_runs_1,extra_runs_1,total_runs_1,is_wicket_1,over_1,batting_team_2,batsman_runs_2,extra_runs_2,total_runs_2,is_wicket_2,over_2
+1,Kolkata Knight Riders,205,17,222,3,20.0,Royal Challengers Bangalore,63.0,19.0,82.0,10.0,15.2
+2,Chennai Super Kings,234,6,240,5,20.0,Punjab Kings,196.0,11.0,207.0,4.0,20.0
+3,Rajasthan Royals,122,7,129,8,20.0,Delhi Capitals,122.0,10.0,132.0,1.0,15.1
+4,Mumbai Indians,154,11,165,7,20.0,Royal Challengers Bangalore,161.0,5.0,166.0,5.0,19.5
+5,Deccan Chargers,100,10,110,10,18.4,Kolkata Knight Riders,84.0,28.0,112.0,5.0,19.0
+6,Punjab Kings,162,4,166,8,19.7,Rajasthan Royals,156.0,12.0,168.0,4.0,18.1
+7,Deccan Chargers,137,5,142,8,19.7,Delhi Capitals,131.0,12.0,143.0,1.0,13.1
+8,Chennai Super Kings,190,18,208,5,20.0,Mumbai Indians,189.0,13.0,202.0,7.0,19.7
+9,Deccan Chargers,208,6,214,5,19.7,Rajasthan Royals,210.0,7.0,217.0,7.0,19.5
+10,Punjab Kings,175,7,182,10,20.0,Mumbai Indians,109.0,7.0,116.0,9.0,20.0
+11,Royal Challengers Bangalore,129,6,135,8,19.7,Rajasthan Royals,135.0,3.0,138.0,3.0,17.1
+12,Kolkata Knight Riders,139,8,147,9,19.7,Chennai Super Kings,134.0,18.0,152.0,1.0,17.0
+13,Mumbai Indians,143,11,154,7,20.0,Deccan Chargers,146.0,9.0,155.0,0.0,12.0
+14,Delhi Capitals,147,11,158,8,20.0,Punjab Kings,153.0,9.0,162.0,6.0,19.3
+15,Chennai Super Kings,174,4,178,5,20.0,Royal Challengers Bangalore,158.0,7.0,165.0,10.0,19.4
+16,Kolkata Knight Riders,124,13,137,8,19.7,Mumbai Indians,123.0,15.0,138.0,3.0,18.4
+17,Delhi Capitals,187,4,191,5,20.0,Royal Challengers Bangalore,169.0,12.0,181.0,5.0,20.0
+18,Deccan Chargers,160,4,164,8,20.0,Punjab Kings,161.0,6.0,167.0,3.0,19.0
+19,Rajasthan Royals,182,14,196,7,19.7,Kolkata Knight Riders,139.0,12.0,151.0,10.0,19.1
+20,Chennai Super Kings,162,7,169,6,20.0,Delhi Capitals,166.0,6.0,172.0,2.0,18.7
+21,Deccan Chargers,152,13,165,10,20.0,Royal Challengers Bangalore,168.0,3.0,171.0,5.0,19.0
+22,Punjab Kings,164,14,178,6,20.0,Kolkata Knight Riders,162.0,7.0,169.0,6.0,20.0
+23,Mumbai Indians,152,10,162,8,20.0,Delhi Capitals,129.0,4.0,133.0,10.0,18.5
+24,Chennai Super Kings,102,7,109,10,19.0,Rajasthan Royals,89.0,21.0,110.0,2.0,14.2
+25,Royal Challengers Bangalore,116,10,126,10,19.2,Punjab Kings,110.0,17.0,127.0,4.0,18.3
+26,Chennai Super Kings,134,10,144,7,20.0,Deccan Chargers,143.0,5.0,148.0,3.0,18.0
+27,Rajasthan Royals,96,7,103,10,16.2,Mumbai Indians,92.0,12.0,104.0,3.0,15.3
+28,Delhi Capitals,175,12,187,5,20.0,Chennai Super Kings,177.0,11.0,188.0,6.0,19.7
+29,Kolkata Knight Riders,124,5,129,7,16.0,Royal Challengers Bangalore,118.0,6.0,124.0,4.0,16.0
+30,Deccan Chargers,134,6,140,8,19.7,Rajasthan Royals,130.0,11.0,141.0,2.0,16.0
+31,Royal Challengers Bangalore,111,11,122,9,18.0,Mumbai Indians,113.0,13.0,126.0,1.0,16.0
+32,Chennai Super Kings,166,15,181,4,20.0,Punjab Kings,160.0,3.0,163.0,9.0,20.0
+33,Kolkata Knight Riders,199,5,204,4,20.0,Deccan Chargers,165.0,16.0,181.0,7.0,19.7
+34,Delhi Capitals,145,11,156,7,20.0,Rajasthan Royals,142.0,17.0,159.0,7.0,19.1
+35,Royal Challengers Bangalore,128,15,143,8,19.7,Punjab Kings,135.0,9.0,144.0,1.0,15.4
+36,Kolkata Knight Riders,122,11,133,6,20.0,Delhi Capitals,102.0,8.0,110.0,10.0,18.0
+37,Chennai Super Kings,144,12,156,6,19.9,Mumbai Indians,142.0,16.0,158.0,1.0,13.5
+38,Punjab Kings,216,5,221,3,19.7,Rajasthan Royals,176.0,4.0,180.0,7.0,20.0
+39,Delhi Capitals,186,8,194,4,20.0,Deccan Chargers,179.0,3.0,182.0,9.0,20.0
+40,Kolkata Knight Riders,59,8,67,10,15.2,Mumbai Indians,58.0,10.0,68.0,2.0,5.4
+41,Delhi Capitals,108,10,118,4,11.0,Punjab Kings,90.0,4.0,94.0,3.0,8.0
+42,Rajasthan Royals,171,26,197,1,20.0,Royal Challengers Bangalore,126.0,6.0,132.0,9.0,20.0
+43,Mumbai Indians,158,20,178,7,20.0,Deccan Chargers,145.0,8.0,153.0,7.0,20.0
+44,Kolkata Knight Riders,136,13,149,5,20.0,Chennai Super Kings,51.0,4.0,55.0,0.0,7.7
+45,Royal Challengers Bangalore,145,9,154,7,20.0,Delhi Capitals,146.0,12.0,158.0,5.0,18.2
+46,Kolkata Knight Riders,142,5,147,8,20.0,Rajasthan Royals,143.0,7.0,150.0,4.0,16.5
+47,Punjab Kings,177,12,189,4,19.7,Mumbai Indians,165.0,23.0,188.0,10.0,19.7
+48,Royal Challengers Bangalore,122,4,126,8,20.0,Chennai Super Kings,100.0,12.0,112.0,8.0,20.0
+49,Deccan Chargers,170,5,175,4,20.0,Punjab Kings,170.0,8.0,178.0,4.0,19.3
+50,Mumbai Indians,167,9,176,8,20.0,Delhi Capitals,176.0,3.0,179.0,5.0,19.5
+51,Rajasthan Royals,204,7,211,5,20.0,Chennai Super Kings,192.0,9.0,201.0,7.0,19.7
+52,Royal Challengers Bangalore,151,5,156,8,20.0,Deccan Chargers,147.0,6.0,153.0,6.0,20.0
+53,Punjab Kings,163,11,174,6,20.0,Kolkata Knight Riders,166.0,9.0,175.0,7.0,19.4
+54,Mumbai Indians,132,13,145,7,19.7,Rajasthan Royals,130.0,16.0,146.0,5.0,19.7
+55,Deccan Chargers,131,16,147,8,20.0,Chennai Super Kings,137.0,11.0,148.0,3.0,19.2
+56,Rajasthan Royals,188,4,192,9,20.0,Delhi Capitals,80.0,7.0,87.0,10.0,16.1
+57,Punjab Kings,108,4,112,8,20.0,Chennai Super Kings,112.0,4.0,116.0,1.0,14.5
+58,Chennai Super Kings,156,7,163,5,20.0,Rajasthan Royals,150.0,14.0,164.0,7.0,19.7
+59,Mumbai Indians,162,3,165,7,20.0,Chennai Super Kings,137.0,9.0,146.0,7.0,19.7
+60,Royal Challengers Bangalore,129,4,133,8,19.7,Rajasthan Royals,49.0,9.0,58.0,10.0,15.1
+61,Punjab Kings,96,8,104,7,12.0,Delhi Capitals,53.0,5.0,58.0,0.0,5.0
+62,Kolkata Knight Riders,96,5,101,10,19.4,Deccan Chargers,102.0,2.0,104.0,2.0,13.1
+63,Chennai Super Kings,166,13,179,5,19.7,Royal Challengers Bangalore,82.0,5.0,87.0,10.0,15.2
+64,Punjab Kings,146,12,158,6,19.7,Kolkata Knight Riders,75.0,4.0,79.0,1.0,9.2
+65,Deccan Chargers,175,9,184,6,20.0,Royal Challengers Bangalore,153.0,7.0,160.0,8.0,20.0
+66,Delhi Capitals,188,1,189,5,20.0,Chennai Super Kings,165.0,15.0,180.0,9.0,20.0
+67,Rajasthan Royals,140,10,150,6,20.0,Kolkata Knight Riders,132.0,18.0,150.0,8.0,19.7
+68,Royal Challengers Bangalore,160,8,168,9,20.0,Punjab Kings,160.0,13.0,173.0,3.0,18.7
+69,Deccan Chargers,154,14,168,9,20.0,Mumbai Indians,143.0,13.0,156.0,7.0,20.0
+70,Royal Challengers Bangalore,138,11,149,7,19.7,Delhi Capitals,146.0,4.0,150.0,4.0,19.2
+71,Punjab Kings,126,13,139,6,19.7,Rajasthan Royals,102.0,10.0,112.0,7.0,20.0
+72,Chennai Super Kings,158,7,165,6,19.7,Deccan Chargers,159.0,10.0,169.0,4.0,19.3
+73,Mumbai Indians,178,9,187,6,20.0,Kolkata Knight Riders,91.0,4.0,95.0,9.0,15.2
+74,Delhi Capitals,138,5,143,7,20.0,Rajasthan Royals,138.0,9.0,147.0,5.0,18.3
+75,Kolkata Knight Riders,130,9,139,6,20.0,Royal Challengers Bangalore,134.0,9.0,143.0,5.0,19.5
+76,Punjab Kings,102,17,119,8,20.0,Mumbai Indians,105.0,11.0,116.0,7.0,19.7
+77,Deccan Chargers,137,11,148,9,20.0,Delhi Capitals,138.0,12.0,150.0,4.0,19.0
+78,Chennai Super Kings,159,5,164,5,20.0,Rajasthan Royals,118.0,8.0,126.0,9.0,19.3
+79,Mumbai Indians,135,13,148,6,20.0,Kolkata Knight Riders,131.0,8.0,139.0,6.0,20.0
+80,Royal Challengers Bangalore,139,6,145,9,19.7,Punjab Kings,124.0,13.0,137.0,7.0,20.0
+81,Deccan Chargers,134,7,141,5,20.0,Rajasthan Royals,135.0,7.0,142.0,7.0,19.4
+82,Chennai Super Kings,154,9,163,10,20.0,Delhi Capitals,142.0,3.0,145.0,8.0,20.0
+83,Kolkata Knight Riders,146,7,153,3,20.0,Punjab Kings,144.0,10.0,154.0,4.0,20.0
+84,Mumbai Indians,143,6,149,4,19.7,Royal Challengers Bangalore,142.0,8.0,150.0,1.0,18.1
+85,Chennai Super Kings,168,10,178,3,19.7,Deccan Chargers,93.0,7.0,100.0,10.0,14.4
+86,Rajasthan Royals,207,4,211,4,20.0,Punjab Kings,114.0,19.0,133.0,8.0,20.0
+87,Kolkata Knight Riders,150,4,154,3,20.0,Delhi Capitals,149.0,8.0,157.0,1.0,19.0
+88,Deccan Chargers,136,9,145,6,20.0,Mumbai Indians,123.0,3.0,126.0,8.0,20.0
+89,Royal Challengers Bangalore,100,5,105,10,20.0,Rajasthan Royals,104.0,3.0,107.0,3.0,14.7
+90,Chennai Super Kings,179,6,185,3,18.0,Punjab Kings,168.0,6.0,174.0,3.0,18.0
+91,Mumbai Indians,103,13,116,10,20.0,Delhi Capitals,112.0,6.0,118.0,3.0,18.5
+92,Deccan Chargers,161,7,168,5,19.7,Punjab Kings,160.0,9.0,169.0,7.0,19.5
+93,Rajasthan Royals,133,7,140,7,19.7,Chennai Super Kings,131.0,10.0,141.0,3.0,18.2
+94,Mumbai Indians,150,7,157,2,19.7,Royal Challengers Bangalore,127.0,14.0,141.0,7.0,19.7
+95,Kolkata Knight Riders,115,8,123,8,20.0,Delhi Capitals,112.0,13.0,125.0,3.0,17.1
+96,Deccan Chargers,164,2,166,7,20.0,Rajasthan Royals,109.0,4.0,113.0,10.0,19.3
+97,Kolkata Knight Riders,164,9,173,4,19.8,Royal Challengers Bangalore,167.0,9.0,176.0,4.0,19.2
+98,Punjab Kings,101,18,119,9,19.7,Mumbai Indians,116.0,6.0,122.0,2.0,16.2
+99,Delhi Capitals,161,12,173,7,19.7,Deccan Chargers,153.0,8.0,161.0,10.0,19.4
+100,Chennai Super Kings,125,4,129,10,19.4,Royal Challengers Bangalore,124.0,8.0,132.0,8.0,19.4
+101,Rajasthan Royals,138,7,145,7,20.0,Mumbai Indians,125.0,18.0,143.0,10.0,19.5
+102,Delhi Capitals,106,14,120,9,20.0,Punjab Kings,114.0,9.0,123.0,4.0,19.1
+103,Mumbai Indians,142,5,147,5,20.0,Chennai Super Kings,125.0,26.0,151.0,3.0,19.2
+104,Kolkata Knight Riders,153,7,160,5,20.0,Deccan Chargers,159.0,7.0,166.0,4.0,19.8
+105,Punjab Kings,127,7,134,7,19.7,Deccan Chargers,128.0,5.0,133.0,8.0,19.7
+106,Delhi Capitals,145,5,150,3,20.0,Rajasthan Royals,123.0,13.0,136.0,9.0,20.0
+107,Chennai Super Kings,168,20,188,3,19.7,Kolkata Knight Riders,184.0,5.0,189.0,3.0,20.0
+108,Delhi Capitals,131,3,134,7,20.0,Royal Challengers Bangalore,132.0,3.0,135.0,3.0,18.7
+109,Rajasthan Royals,96,5,101,9,20.0,Kolkata Knight Riders,97.0,5.0,102.0,6.0,19.3
+110,Chennai Super Kings,109,7,116,9,20.0,Punjab Kings,86.0,6.0,92.0,8.0,20.0
+111,Mumbai Indians,141,24,165,8,19.7,Delhi Capitals,157.0,9.0,166.0,6.0,17.3
+112,Royal Challengers Bangalore,168,2,170,4,20.0,Deccan Chargers,145.0,13.0,158.0,6.0,20.0
+113,Delhi Capitals,143,10,153,8,19.7,Deccan Chargers,148.0,6.0,154.0,4.0,17.4
+114,Chennai Super Kings,140,6,146,5,20.0,Royal Challengers Bangalore,144.0,5.0,149.0,4.0,19.0
+115,Deccan Chargers,135,8,143,6,20.0,Royal Challengers Bangalore,127.0,10.0,137.0,9.0,20.0
+116,Kolkata Knight Riders,146,15,161,4,20.0,Deccan Chargers,138.0,12.0,150.0,7.0,19.7
+117,Mumbai Indians,196,16,212,7,20.0,Rajasthan Royals,203.0,5.0,208.0,7.0,19.7
+118,Punjab Kings,129,13,142,9,20.0,Delhi Capitals,139.0,7.0,146.0,5.0,19.5
+119,Royal Challengers Bangalore,130,5,135,7,20.0,Kolkata Knight Riders,130.0,6.0,136.0,3.0,19.2
+120,Deccan Chargers,174,16,190,4,19.8,Chennai Super Kings,156.0,3.0,159.0,9.0,19.7
+121,Rajasthan Royals,136,5,141,6,19.7,Delhi Capitals,133.0,9.0,142.0,4.0,17.1
+122,Punjab Kings,190,13,203,3,19.7,Royal Challengers Bangalore,194.0,10.0,204.0,2.0,19.0
+123,Chennai Super Kings,161,3,164,3,20.0,Kolkata Knight Riders,101.0,8.0,109.0,10.0,19.2
+124,Mumbai Indians,201,17,218,7,20.0,Delhi Capitals,109.0,11.0,120.0,9.0,16.3
+125,Rajasthan Royals,85,7,92,10,19.5,Royal Challengers Bangalore,86.0,7.0,93.0,0.0,11.0
+126,Delhi Capitals,175,10,185,6,20.0,Chennai Super Kings,180.0,10.0,190.0,5.0,19.1
+127,Deccan Chargers,169,1,170,8,20.0,Punjab Kings,152.0,12.0,164.0,8.0,20.0
+128,Rajasthan Royals,160,8,168,7,20.0,Kolkata Knight Riders,129.0,5.0,134.0,5.0,20.0
+129,Mumbai Indians,137,14,151,9,20.0,Royal Challengers Bangalore,153.0,2.0,155.0,3.0,19.1
+130,Deccan Chargers,169,2,171,6,20.0,Delhi Capitals,157.0,4.0,161.0,9.0,20.0
+131,Punjab Kings,132,4,136,8,19.7,Chennai Super Kings,123.0,13.0,136.0,7.0,20.0
+132,Kolkata Knight Riders,140,15,155,3,20.0,Mumbai Indians,152.0,4.0,156.0,3.0,18.3
+133,Royal Challengers Bangalore,157,14,171,5,20.0,Chennai Super Kings,124.0,11.0,135.0,7.0,20.0
+134,Rajasthan Royals,173,10,183,5,20.0,Punjab Kings,146.0,6.0,152.0,10.0,19.1
+135,Chennai Super Kings,166,14,180,2,19.7,Mumbai Indians,167.0,14.0,181.0,5.0,19.0
+136,Deccan Chargers,137,11,148,9,20.0,Rajasthan Royals,140.0,11.0,151.0,2.0,15.4
+137,Kolkata Knight Riders,165,18,183,5,20.0,Punjab Kings,138.0,6.0,144.0,6.0,20.0
+138,Delhi Capitals,175,8,183,4,20.0,Royal Challengers Bangalore,150.0,16.0,166.0,9.0,20.0
+139,Rajasthan Royals,174,3,177,8,20.0,Chennai Super Kings,154.0,6.0,160.0,6.0,20.0
+140,Mumbai Indians,162,10,172,7,19.8,Deccan Chargers,120.0,11.0,131.0,10.0,17.4
+141,Delhi Capitals,173,4,177,4,20.0,Kolkata Knight Riders,126.0,11.0,137.0,9.0,20.0
+142,Punjab Kings,142,21,163,10,19.7,Mumbai Indians,147.0,17.0,164.0,6.0,19.4
+143,Royal Challengers Bangalore,156,5,161,4,20.0,Chennai Super Kings,152.0,10.0,162.0,5.0,18.7
+144,Delhi Capitals,175,13,188,6,20.0,Rajasthan Royals,118.0,3.0,121.0,10.0,17.4
+145,Kolkata Knight Riders,167,14,181,6,20.0,Deccan Chargers,150.0,7.0,157.0,5.0,20.0
+146,Punjab Kings,170,11,181,5,19.7,Royal Challengers Bangalore,174.0,10.0,184.0,4.0,19.2
+147,Chennai Super Kings,240,6,246,5,19.7,Rajasthan Royals,208.0,15.0,223.0,5.0,20.0
+148,Mumbai Indians,171,7,178,5,20.0,Deccan Chargers,108.0,7.0,115.0,10.0,18.2
+149,Kolkata Knight Riders,187,13,200,3,19.8,Punjab Kings,199.0,5.0,204.0,2.0,18.2
+150,Delhi Capitals,176,8,184,5,20.0,Royal Challengers Bangalore,145.0,2.0,147.0,9.0,20.0
+151,Rajasthan Royals,147,12,159,10,19.5,Deccan Chargers,147.0,10.0,157.0,10.0,20.0
+152,Chennai Super Kings,147,18,165,4,20.0,Mumbai Indians,127.0,14.0,141.0,9.0,19.7
+153,Punjab Kings,144,9,153,6,20.0,Rajasthan Royals,148.0,9.0,157.0,1.0,14.7
+154,Kolkata Knight Riders,174,7,181,3,20.0,Delhi Capitals,158.0,9.0,167.0,8.0,20.0
+155,Royal Challengers Bangalore,169,15,184,6,20.0,Deccan Chargers,178.0,8.0,186.0,3.0,19.2
+156,Mumbai Indians,150,4,154,9,19.7,Punjab Kings,154.0,4.0,158.0,4.0,19.2
+157,Chennai Super Kings,130,8,138,8,20.0,Deccan Chargers,131.0,8.0,139.0,4.0,19.2
+158,Kolkata Knight Riders,149,11,160,9,19.7,Royal Challengers Bangalore,151.0,11.0,162.0,3.0,17.1
+159,Delhi Capitals,93,18,111,10,19.5,Punjab Kings,106.0,6.0,112.0,3.0,18.4
+160,Mumbai Indians,162,12,174,5,20.0,Rajasthan Royals,129.0,8.0,137.0,8.0,19.7
+161,Deccan Chargers,142,9,151,6,20.0,Royal Challengers Bangalore,125.0,13.0,138.0,10.0,19.5
+162,Mumbai Indians,173,10,183,4,20.0,Delhi Capitals,136.0,8.0,144.0,7.0,20.0
+163,Kolkata Knight Riders,119,20,139,8,19.7,Chennai Super Kings,128.0,15.0,143.0,1.0,13.3
+164,Rajasthan Royals,122,8,130,6,20.0,Royal Challengers Bangalore,131.0,1.0,132.0,5.0,15.4
+165,Chennai Super Kings,104,8,112,9,20.0,Delhi Capitals,100.0,13.0,113.0,4.0,18.4
+166,Punjab Kings,166,8,174,3,20.0,Deccan Chargers,165.0,13.0,178.0,5.0,19.1
+167,Mumbai Indians,176,15,191,4,20.0,Royal Challengers Bangalore,129.0,5.0,134.0,9.0,20.0
+168,Rajasthan Royals,129,3,132,9,20.0,Kolkata Knight Riders,126.0,7.0,133.0,2.0,16.1
+169,Punjab Kings,187,5,192,3,20.0,Chennai Super Kings,185.0,10.0,195.0,4.0,19.4
+170,Deccan Chargers,142,3,145,7,20.0,Delhi Capitals,129.0,5.0,134.0,7.0,20.0
+171,Mumbai Indians,127,6,133,8,20.0,Kolkata Knight Riders,119.0,16.0,135.0,1.0,17.3
+172,Mumbai Indians,171,13,184,5,19.7,Royal Challengers Bangalore,139.0,10.0,149.0,9.0,19.7
+173,Chennai Super Kings,126,16,142,7,20.0,Deccan Chargers,96.0,8.0,104.0,10.0,19.2
+174,Deccan Chargers,78,4,82,10,18.3,Royal Challengers Bangalore,83.0,3.0,86.0,1.0,13.5
+175,Chennai Super Kings,157,11,168,5,19.7,Mumbai Indians,134.0,12.0,146.0,9.0,20.0
+176,Chennai Super Kings,150,3,153,4,20.0,Kolkata Knight Riders,143.0,8.0,151.0,7.0,20.0
+177,Deccan Chargers,133,4,137,8,20.0,Rajasthan Royals,136.0,5.0,141.0,2.0,18.5
+178,Kochi Tuskers Kerala,150,11,161,5,20.0,Royal Challengers Bangalore,149.0,13.0,162.0,4.0,18.5
+179,Delhi Capitals,91,4,95,10,17.4,Mumbai Indians,88.0,11.0,99.0,2.0,16.7
+180,Punjab Kings,102,10,112,8,20.0,Pune Warriors,109.0,4.0,113.0,3.0,13.2
+181,Kolkata Knight Riders,153,10,163,4,20.0,Deccan Chargers,145.0,9.0,154.0,8.0,19.7
+182,Delhi Capitals,142,9,151,6,19.7,Rajasthan Royals,140.0,12.0,152.0,4.0,18.3
+183,Royal Challengers Bangalore,125,15,140,4,19.7,Mumbai Indians,140.0,3.0,143.0,1.0,18.3
+184,Chennai Super Kings,183,5,188,4,20.0,Punjab Kings,192.0,1.0,193.0,4.0,19.1
+185,Kochi Tuskers Kerala,137,11,148,8,19.7,Pune Warriors,140.0,11.0,151.0,6.0,18.5
+186,Deccan Chargers,168,7,175,5,20.0,Royal Challengers Bangalore,134.0,8.0,142.0,9.0,19.8
+187,Rajasthan Royals,140,19,159,4,19.7,Kolkata Knight Riders,156.0,4.0,160.0,1.0,18.3
+188,Mumbai Indians,165,17,182,2,20.0,Kochi Tuskers Kerala,173.0,11.0,184.0,2.0,19.0
+189,Chennai Super Kings,179,4,183,5,20.0,Royal Challengers Bangalore,153.0,9.0,162.0,7.0,20.0
+190,Deccan Chargers,160,5,165,8,20.0,Punjab Kings,152.0,14.0,166.0,2.0,17.4
+191,Pune Warriors,179,8,187,5,19.7,Delhi Capitals,180.0,10.0,190.0,7.0,19.2
+192,Rajasthan Royals,76,5,81,10,15.2,Kolkata Knight Riders,74.0,11.0,85.0,2.0,14.0
+193,Chennai Super Kings,128,3,131,4,17.0,Kochi Tuskers Kerala,132.0,3.0,135.0,3.0,15.0
+194,Deccan Chargers,163,5,168,4,20.0,Delhi Capitals,139.0,13.0,152.0,7.0,20.0
+195,Pune Warriors,106,12,118,10,17.2,Mumbai Indians,114.0,10.0,124.0,3.0,20.0
+196,Kochi Tuskers Kerala,124,8,132,7,20.0,Kolkata Knight Riders,115.0,11.0,126.0,9.0,20.0
+197,Punjab Kings,178,17,195,7,20.0,Rajasthan Royals,145.0,2.0,147.0,7.0,20.0
+198,Mumbai Indians,150,14,164,4,19.7,Chennai Super Kings,146.0,10.0,156.0,9.0,20.0
+199,Kolkata Knight Riders,158,13,171,5,19.7,Royal Challengers Bangalore,170.0,5.0,175.0,1.0,18.1
+200,Delhi Capitals,215,16,231,4,19.7,Punjab Kings,197.0,5.0,202.0,6.0,20.0
+201,Mumbai Indians,167,5,172,4,20.0,Deccan Chargers,123.0,12.0,135.0,8.0,20.0
+202,Kochi Tuskers Kerala,100,9,109,10,20.0,Rajasthan Royals,109.0,2.0,111.0,2.0,14.1
+203,Chennai Super Kings,138,4,142,6,20.0,Pune Warriors,110.0,7.0,117.0,9.0,20.0
+204,Delhi Capitals,147,13,160,6,19.7,Royal Challengers Bangalore,143.0,18.0,161.0,7.0,19.3
+205,Pune Warriors,136,5,141,6,20.0,Chennai Super Kings,137.0,8.0,145.0,2.0,19.3
+206,Deccan Chargers,122,7,129,7,20.0,Kochi Tuskers Kerala,67.0,7.0,74.0,10.0,16.3
+207,Kolkata Knight Riders,140,8,148,7,20.0,Delhi Capitals,124.0,7.0,131.0,9.0,20.0
+208,Mumbai Indians,87,7,94,8,20.0,Rajasthan Royals,93.0,2.0,95.0,3.0,18.1
+209,Royal Challengers Bangalore,179,2,181,5,20.0,Pune Warriors,146.0,9.0,155.0,5.0,19.7
+210,Delhi Capitals,141,16,157,7,20.0,Kochi Tuskers Kerala,111.0,8.0,119.0,10.0,18.5
+211,Punjab Kings,113,6,119,6,20.0,Kolkata Knight Riders,108.0,12.0,120.0,2.0,17.2
+212,Pune Warriors,138,5,143,7,20.0,Rajasthan Royals,133.0,11.0,144.0,4.0,19.3
+213,Chennai Super Kings,156,9,165,5,20.0,Deccan Chargers,141.0,5.0,146.0,8.0,20.0
+214,Mumbai Indians,154,5,159,5,20.0,Punjab Kings,124.0,12.0,136.0,8.0,20.0
+215,Delhi Capitals,133,7,140,6,20.0,Kochi Tuskers Kerala,123.0,18.0,141.0,3.0,15.0
+216,Kolkata Knight Riders,159,10,169,4,20.0,Deccan Chargers,145.0,4.0,149.0,6.0,19.7
+217,Rajasthan Royals,140,7,147,6,20.0,Chennai Super Kings,145.0,4.0,149.0,2.0,18.4
+218,Mumbai Indians,145,15,160,7,20.0,Pune Warriors,129.0,10.0,139.0,7.0,20.0
+219,Kochi Tuskers Kerala,150,6,156,5,20.0,Kolkata Knight Riders,136.0,3.0,139.0,7.0,20.0
+220,Deccan Chargers,165,10,175,5,20.0,Delhi Capitals,169.0,10.0,179.0,6.0,19.0
+221,Royal Challengers Bangalore,199,6,205,6,20.0,Punjab Kings,115.0,5.0,120.0,9.0,19.7
+222,Chennai Super Kings,108,6,114,4,20.0,Kolkata Knight Riders,57.0,4.0,61.0,2.0,9.7
+223,Mumbai Indians,172,6,178,4,20.0,Delhi Capitals,137.0,9.0,146.0,10.0,20.0
+224,Kochi Tuskers Kerala,115,10,125,9,20.0,Royal Challengers Bangalore,123.0,5.0,128.0,1.0,13.1
+225,Punjab Kings,115,4,119,8,20.0,Pune Warriors,108.0,12.0,120.0,5.0,17.1
+226,Chennai Super Kings,188,8,196,3,19.7,Rajasthan Royals,128.0,5.0,133.0,10.0,19.3
+227,Deccan Chargers,135,1,136,8,20.0,Pune Warriors,134.0,3.0,137.0,4.0,18.2
+228,Punjab Kings,141,22,163,8,20.0,Mumbai Indians,82.0,5.0,87.0,10.0,13.0
+229,Rajasthan Royals,135,11,146,6,20.0,Royal Challengers Bangalore,147.0,4.0,151.0,1.0,17.0
+230,Chennai Super Kings,172,4,176,4,20.0,Delhi Capitals,144.0,14.0,158.0,6.0,20.0
+231,Kochi Tuskers Kerala,155,23,178,7,20.0,Punjab Kings,173.0,8.0,181.0,4.0,18.5
+232,Kolkata Knight Riders,82,7,89,4,13.0,Royal Challengers Bangalore,99.0,6.0,105.0,6.0,12.4
+233,Deccan Chargers,128,7,135,6,20.0,Mumbai Indians,107.0,18.0,125.0,8.0,19.8
+234,Punjab Kings,161,9,170,6,20.0,Delhi Capitals,129.0,12.0,141.0,8.0,20.0
+235,Rajasthan Royals,94,3,97,10,18.3,Kochi Tuskers Kerala,89.0,9.0,98.0,2.0,7.2
+236,Pune Warriors,133,3,136,9,20.0,Deccan Chargers,129.0,9.0,138.0,4.0,19.2
+237,Punjab Kings,205,27,232,2,20.0,Royal Challengers Bangalore,112.0,9.0,121.0,10.0,17.0
+238,Chennai Super Kings,148,4,152,5,20.0,Kochi Tuskers Kerala,132.0,9.0,141.0,5.0,19.7
+239,Pune Warriors,106,12,118,7,19.7,Kolkata Knight Riders,114.0,5.0,119.0,3.0,16.4
+240,Mumbai Indians,128,5,133,5,20.0,Rajasthan Royals,132.0,2.0,134.0,0.0,13.1
+241,Deccan Chargers,182,16,198,2,20.0,Punjab Kings,112.0,4.0,116.0,10.0,19.0
+242,Delhi Capitals,51,5,56,3,10.1,,,,,,
+243,Chennai Super Kings,118,10,128,8,20.0,Royal Challengers Bangalore,119.0,10.0,129.0,2.0,18.0
+244,Kolkata Knight Riders,169,6,175,7,20.0,Mumbai Indians,162.0,16.0,178.0,5.0,20.0
+245,Royal Challengers Bangalore,161,14,175,4,20.0,Chennai Super Kings,169.0,8.0,177.0,4.0,19.4
+246,Kolkata Knight Riders,141,6,147,7,20.0,Mumbai Indians,144.0,4.0,148.0,6.0,19.2
+247,Royal Challengers Bangalore,171,14,185,4,20.0,Mumbai Indians,138.0,4.0,142.0,8.0,20.0
+248,Chennai Super Kings,196,9,205,5,20.0,Royal Challengers Bangalore,141.0,6.0,147.0,8.0,20.0
+249,Chennai Super Kings,100,12,112,10,19.5,Mumbai Indians,109.0,6.0,115.0,3.0,16.5
+250,Kolkata Knight Riders,90,7,97,9,12.0,Delhi Capitals,95.0,5.0,100.0,2.0,11.1
+251,Pune Warriors,121,8,129,9,20.0,Mumbai Indians,96.0,5.0,101.0,9.0,20.0
+252,Rajasthan Royals,172,19,191,4,20.0,Punjab Kings,154.0,6.0,160.0,9.0,20.0
+253,Royal Challengers Bangalore,151,6,157,8,20.0,Delhi Capitals,133.0,4.0,137.0,7.0,20.0
+254,Chennai Super Kings,182,11,193,6,19.7,Deccan Chargers,115.0,4.0,119.0,10.0,17.1
+255,Rajasthan Royals,161,3,164,5,20.0,Kolkata Knight Riders,135.0,7.0,142.0,10.0,20.0
+256,Pune Warriors,154,12,166,6,20.0,Punjab Kings,133.0,11.0,144.0,8.0,20.0
+257,Deccan Chargers,133,5,138,9,19.7,Mumbai Indians,138.0,4.0,142.0,5.0,20.0
+258,Kolkata Knight Riders,159,6,165,8,20.0,Royal Challengers Bangalore,113.0,10.0,123.0,9.0,20.0
+259,Chennai Super Kings,104,6,110,8,20.0,Delhi Capitals,110.0,1.0,111.0,2.0,13.2
+260,Mumbai Indians,191,6,197,6,20.0,Rajasthan Royals,166.0,4.0,170.0,10.0,19.4
+261,Royal Challengers Bangalore,189,16,205,8,20.0,Chennai Super Kings,203.0,5.0,208.0,5.0,19.7
+262,Pune Warriors,103,12,115,10,19.0,Punjab Kings,116.0,0.0,116.0,3.0,17.4
+263,Rajasthan Royals,121,10,131,5,19.7,Kolkata Knight Riders,125.0,12.0,137.0,5.0,19.2
+264,Deccan Chargers,151,6,157,8,20.0,Delhi Capitals,158.0,4.0,162.0,5.0,19.1
+265,Chennai Super Kings,149,6,155,5,20.0,Pune Warriors,151.0,5.0,156.0,3.0,19.2
+266,Punjab Kings,127,7,134,9,20.0,Kolkata Knight Riders,123.0,9.0,132.0,7.0,20.0
+267,Rajasthan Royals,189,6,195,2,20.0,Royal Challengers Bangalore,133.0,3.0,136.0,10.0,19.5
+268,Mumbai Indians,83,9,92,10,19.2,Delhi Capitals,82.0,11.0,93.0,3.0,14.8
+269,Deccan Chargers,183,13,196,2,20.0,Rajasthan Royals,191.0,6.0,197.0,5.0,19.4
+270,Pune Warriors,175,7,182,6,20.0,Royal Challengers Bangalore,179.0,7.0,186.0,4.0,20.0
+271,Punjab Kings,121,3,124,7,20.0,Kolkata Knight Riders,122.0,5.0,127.0,2.0,16.3
+272,Deccan Chargers,185,2,187,4,20.0,Delhi Capitals,177.0,16.0,193.0,1.0,16.4
+273,Chennai Super Kings,162,2,164,5,20.0,Pune Warriors,136.0,15.0,151.0,7.0,19.7
+274,Punjab Kings,155,8,163,6,20.0,Royal Challengers Bangalore,158.0,8.0,166.0,5.0,19.3
+275,Rajasthan Royals,132,14,146,4,20.0,Chennai Super Kings,145.0,2.0,147.0,3.0,20.0
+276,Pune Warriors,177,15,192,3,20.0,Delhi Capitals,167.0,5.0,172.0,7.0,20.0
+277,Mumbai Indians,157,6,163,6,20.0,Punjab Kings,158.0,6.0,164.0,4.0,19.3
+278,Deccan Chargers,123,3,126,7,20.0,Kolkata Knight Riders,118.0,9.0,127.0,5.0,19.1
+279,Royal Challengers Bangalore,170,19,189,3,19.7,Rajasthan Royals,133.0,10.0,143.0,7.0,20.0
+280,Pune Warriors,141,5,146,2,20.0,Delhi Capitals,141.0,7.0,148.0,2.0,16.0
+281,Punjab Kings,158,10,168,3,20.0,Mumbai Indians,162.0,9.0,171.0,6.0,19.5
+282,Deccan Chargers,166,11,177,4,20.0,Pune Warriors,150.0,9.0,159.0,7.0,20.0
+283,Delhi Capitals,198,9,207,5,20.0,Mumbai Indians,166.0,4.0,170.0,9.0,20.0
+284,Punjab Kings,151,5,156,8,20.0,Chennai Super Kings,143.0,6.0,149.0,8.0,20.0
+285,Kolkata Knight Riders,185,5,190,4,20.0,Royal Challengers Bangalore,138.0,5.0,143.0,6.0,20.0
+286,Delhi Capitals,144,8,152,6,20.0,Rajasthan Royals,147.0,4.0,151.0,3.0,20.0
+287,Deccan Chargers,95,5,100,10,18.4,Mumbai Indians,91.0,10.0,101.0,5.0,18.2
+288,Chennai Super Kings,133,6,139,5,20.0,Kolkata Knight Riders,127.0,13.0,140.0,5.0,19.4
+289,Deccan Chargers,175,11,186,4,20.0,Pune Warriors,167.0,6.0,173.0,5.0,20.0
+290,Rajasthan Royals,136,5,141,6,20.0,Delhi Capitals,135.0,9.0,144.0,4.0,15.2
+291,Royal Challengers Bangalore,152,6,158,5,19.7,Punjab Kings,159.0,4.0,163.0,6.0,19.5
+292,Mumbai Indians,109,11,120,9,20.0,Pune Warriors,113.0,6.0,119.0,6.0,19.7
+293,Chennai Super Kings,152,8,160,6,20.0,Deccan Chargers,146.0,4.0,150.0,5.0,20.0
+294,Kolkata Knight Riders,131,19,150,5,20.0,Pune Warriors,133.0,10.0,143.0,8.0,20.0
+295,Rajasthan Royals,171,6,177,6,20.0,Punjab Kings,122.0,12.0,134.0,8.0,19.8
+296,Chennai Super Kings,164,9,173,8,20.0,Mumbai Indians,171.0,3.0,174.0,8.0,20.0
+297,Deccan Chargers,175,6,181,2,19.7,Royal Challengers Bangalore,179.0,6.0,185.0,5.0,18.5
+298,Delhi Capitals,139,14,153,9,19.7,Kolkata Knight Riders,138.0,16.0,154.0,4.0,18.5
+299,Pune Warriors,115,10,125,6,20.0,Rajasthan Royals,126.0,0.0,126.0,3.0,16.2
+300,Punjab Kings,163,7,170,5,20.0,Deccan Chargers,133.0,12.0,145.0,8.0,20.0
+301,Mumbai Indians,134,7,141,6,20.0,Royal Challengers Bangalore,137.0,5.0,142.0,1.0,18.0
+302,Rajasthan Royals,114,12,126,6,20.0,Chennai Super Kings,114.0,13.0,127.0,6.0,18.3
+303,Royal Challengers Bangalore,164,9,173,3,20.0,Pune Warriors,134.0,4.0,138.0,9.0,20.0
+304,Mumbai Indians,177,5,182,1,20.0,Kolkata Knight Riders,151.0,4.0,155.0,4.0,20.0
+305,Delhi Capitals,107,7,114,5,20.0,Chennai Super Kings,114.0,1.0,115.0,1.0,15.2
+306,Rajasthan Royals,167,3,170,4,20.0,Pune Warriors,121.0,4.0,125.0,9.0,20.0
+307,Deccan Chargers,181,9,190,4,20.0,Punjab Kings,186.0,8.0,194.0,6.0,20.0
+308,Royal Challengers Bangalore,157,14,171,6,20.0,Mumbai Indians,162.0,11.0,173.0,5.0,19.4
+309,Kolkata Knight Riders,155,3,158,6,20.0,Chennai Super Kings,155.0,5.0,160.0,5.0,20.0
+310,Punjab Kings,132,4,136,8,20.0,Delhi Capitals,138.0,2.0,140.0,5.0,19.0
+311,Kolkata Knight Riders,126,14,140,7,20.0,Mumbai Indians,104.0,4.0,108.0,10.0,19.1
+312,Chennai Super Kings,116,4,120,7,20.0,Punjab Kings,118.0,5.0,123.0,4.0,16.3
+313,Royal Challengers Bangalore,211,4,215,1,20.0,Delhi Capitals,187.0,7.0,194.0,9.0,19.7
+314,Rajasthan Royals,119,7,126,8,20.0,Deccan Chargers,119.0,9.0,128.0,5.0,18.4
+315,Punjab Kings,133,8,141,8,20.0,Delhi Capitals,136.0,9.0,145.0,4.0,18.2
+316,Kolkata Knight Riders,129,7,136,4,19.7,Pune Warriors,92.0,10.0,102.0,8.0,20.0
+317,Deccan Chargers,122,10,132,7,19.7,Royal Challengers Bangalore,120.0,3.0,123.0,9.0,19.7
+318,Rajasthan Royals,148,14,162,6,20.0,Mumbai Indians,145.0,18.0,163.0,0.0,18.1
+319,Kolkata Knight Riders,158,4,162,4,20.0,Delhi Capitals,130.0,14.0,144.0,8.0,20.0
+320,Chennai Super Kings,182,5,187,5,19.7,Mumbai Indians,138.0,11.0,149.0,9.0,20.0
+321,Chennai Super Kings,216,6,222,5,20.0,Delhi Capitals,125.0,11.0,136.0,10.0,16.5
+322,Chennai Super Kings,183,7,190,3,19.7,Kolkata Knight Riders,184.0,8.0,192.0,5.0,19.4
+323,Delhi Capitals,123,5,128,10,20.0,Kolkata Knight Riders,123.0,6.0,129.0,4.0,18.4
+324,Royal Challengers Bangalore,140,16,156,5,20.0,Mumbai Indians,146.0,8.0,154.0,5.0,20.0
+325,Sunrisers Hyderabad,123,3,126,6,20.0,Pune Warriors,102.0,2.0,104.0,10.0,18.5
+326,Rajasthan Royals,156,9,165,7,20.0,Delhi Capitals,149.0,11.0,160.0,6.0,20.0
+327,Mumbai Indians,139,9,148,6,20.0,Chennai Super Kings,132.0,7.0,139.0,9.0,20.0
+328,Pune Warriors,96,3,99,9,20.0,Punjab Kings,97.0,3.0,100.0,2.0,12.3
+329,Royal Challengers Bangalore,122,8,130,8,20.0,Sunrisers Hyderabad,114.0,16.0,130.0,7.0,20.0
+330,Rajasthan Royals,135,9,144,6,19.7,Kolkata Knight Riders,114.0,11.0,125.0,10.0,19.0
+331,Mumbai Indians,199,10,209,5,20.0,Delhi Capitals,155.0,10.0,165.0,9.0,20.0
+332,Punjab Kings,130,8,138,10,19.5,Chennai Super Kings,136.0,3.0,139.0,0.0,17.2
+333,Kolkata Knight Riders,148,6,154,8,20.0,Royal Challengers Bangalore,148.0,10.0,158.0,2.0,17.4
+334,Rajasthan Royals,138,7,145,5,20.0,Pune Warriors,142.0,6.0,148.0,3.0,18.4
+335,Delhi Capitals,107,7,114,8,20.0,Sunrisers Hyderabad,112.0,3.0,115.0,7.0,19.2
+336,Mumbai Indians,180,3,183,3,20.0,Pune Warriors,137.0,5.0,142.0,8.0,20.0
+337,Royal Challengers Bangalore,157,8,165,6,20.0,Chennai Super Kings,158.0,8.0,166.0,6.0,20.0
+338,Kolkata Knight Riders,172,8,180,4,20.0,Sunrisers Hyderabad,120.0,12.0,132.0,7.0,19.7
+339,Punjab Kings,114,10,124,10,18.5,Rajasthan Royals,117.0,9.0,126.0,4.0,19.2
+340,Pune Warriors,151,8,159,5,19.7,Chennai Super Kings,133.0,2.0,135.0,8.0,20.0
+341,Punjab Kings,151,6,157,9,20.0,Kolkata Knight Riders,141.0,12.0,153.0,9.0,19.8
+342,Delhi Capitals,147,5,152,5,20.0,Royal Challengers Bangalore,148.0,4.0,152.0,7.0,20.0
+343,Sunrisers Hyderabad,114,5,119,8,19.7,Pune Warriors,108.0,0.0,108.0,10.0,19.0
+344,Rajasthan Royals,164,15,179,3,20.0,Mumbai Indians,85.0,7.0,92.0,10.0,18.2
+345,Chennai Super Kings,160,9,169,4,19.7,Delhi Capitals,79.0,4.0,83.0,10.0,17.3
+346,Punjab Kings,116,7,123,9,20.0,Sunrisers Hyderabad,121.0,6.0,127.0,5.0,19.0
+347,Kolkata Knight Riders,115,4,119,9,20.0,Chennai Super Kings,118.0,6.0,124.0,6.0,19.1
+348,Rajasthan Royals,117,0,117,10,19.4,Royal Challengers Bangalore,107.0,16.0,123.0,3.0,17.5
+349,Mumbai Indians,158,3,161,4,20.0,Delhi Capitals,161.0,4.0,165.0,1.0,16.8
+350,Pune Warriors,177,8,185,4,20.0,Punjab Kings,183.0,3.0,186.0,3.0,19.5
+351,Rajasthan Royals,175,10,185,4,20.0,Chennai Super Kings,179.0,7.0,186.0,5.0,19.5
+352,Royal Challengers Bangalore,252,11,263,5,20.0,Pune Warriors,129.0,4.0,133.0,9.0,20.0
+353,Punjab Kings,162,9,171,4,20.0,Delhi Capitals,151.0,13.0,164.0,7.0,20.0
+354,Kolkata Knight Riders,153,6,159,6,20.0,Mumbai Indians,158.0,4.0,162.0,5.0,19.5
+355,Sunrisers Hyderabad,151,8,159,6,20.0,Chennai Super Kings,154.0,6.0,160.0,5.0,19.5
+356,Punjab Kings,144,5,149,6,20.0,Kolkata Knight Riders,138.0,12.0,150.0,4.0,18.3
+357,Sunrisers Hyderabad,133,11,144,9,19.7,Rajasthan Royals,144.0,2.0,146.0,2.0,17.5
+358,Mumbai Indians,185,9,194,7,20.0,Royal Challengers Bangalore,125.0,11.0,136.0,7.0,19.7
+359,Chennai Super Kings,197,3,200,3,20.0,Kolkata Knight Riders,166.0,20.0,186.0,4.0,20.0
+360,Delhi Capitals,150,14,164,5,20.0,Pune Warriors,143.0,6.0,149.0,4.0,20.0
+361,Royal Challengers Bangalore,161,10,171,6,20.0,Rajasthan Royals,168.0,5.0,173.0,6.0,19.5
+362,Mumbai Indians,166,8,174,3,19.7,Punjab Kings,157.0,13.0,170.0,10.0,19.8
+363,Chennai Super Kings,160,4,164,3,20.0,Pune Warriors,121.0,6.0,127.0,9.0,20.0
+364,Mumbai Indians,122,7,129,4,19.7,Sunrisers Hyderabad,127.0,3.0,130.0,3.0,17.7
+365,Kolkata Knight Riders,129,7,136,7,20.0,Delhi Capitals,135.0,2.0,137.0,3.0,17.5
+366,Chennai Super Kings,183,3,186,4,20.0,Punjab Kings,168.0,3.0,171.0,6.0,20.0
+367,Royal Challengers Bangalore,175,12,187,3,20.0,Pune Warriors,164.0,6.0,170.0,9.0,20.0
+368,Rajasthan Royals,125,7,132,6,19.7,Kolkata Knight Riders,123.0,10.0,133.0,2.0,17.2
+369,Delhi Capitals,74,6,80,10,19.1,Sunrisers Hyderabad,78.0,3.0,81.0,4.0,14.0
+370,Royal Challengers Bangalore,167,7,174,5,20.0,Punjab Kings,168.0,8.0,176.0,3.0,18.1
+371,Mumbai Indians,135,4,139,5,20.0,Chennai Super Kings,70.0,9.0,79.0,10.0,15.2
+372,Pune Warriors,167,11,178,4,19.7,Rajasthan Royals,179.0,3.0,182.0,5.0,19.5
+373,Sunrisers Hyderabad,156,5,161,6,20.0,Royal Challengers Bangalore,157.0,5.0,162.0,3.0,17.4
+374,Delhi Capitals,147,7,154,4,20.0,Rajasthan Royals,144.0,11.0,155.0,1.0,17.5
+375,Mumbai Indians,159,11,170,6,19.7,Kolkata Knight Riders,96.0,9.0,105.0,10.0,18.2
+376,Chennai Super Kings,213,10,223,3,19.8,Sunrisers Hyderabad,142.0,4.0,146.0,8.0,19.7
+377,Punjab Kings,136,9,145,6,19.7,Rajasthan Royals,141.0,6.0,147.0,2.0,19.0
+378,Kolkata Knight Riders,141,11,152,6,20.0,Pune Warriors,102.0,4.0,106.0,10.0,19.3
+379,Royal Challengers Bangalore,178,5,183,4,20.0,Delhi Capitals,168.0,11.0,179.0,7.0,20.0
+380,Pune Warriors,108,4,112,8,20.0,Mumbai Indians,112.0,4.0,116.0,5.0,18.5
+381,Sunrisers Hyderabad,146,4,150,7,20.0,Punjab Kings,112.0,8.0,120.0,9.0,20.0
+382,Royal Challengers Bangalore,112,3,115,9,20.0,Kolkata Knight Riders,111.0,5.0,116.0,5.0,19.2
+383,Chennai Super Kings,133,8,141,4,20.0,Rajasthan Royals,143.0,1.0,144.0,5.0,17.1
+384,Delhi Capitals,113,7,120,7,20.0,Punjab Kings,115.0,6.0,121.0,5.0,17.0
+385,Sunrisers Hyderabad,171,7,178,3,20.0,Mumbai Indians,177.0,7.0,184.0,4.0,19.3
+386,Pune Warriors,169,1,170,4,20.0,Kolkata Knight Riders,148.0,15.0,163.0,7.0,20.0
+387,Chennai Super Kings,158,10,168,4,20.0,Delhi Capitals,126.0,9.0,135.0,9.0,20.0
+388,Mumbai Indians,159,7,166,8,20.0,Rajasthan Royals,136.0,16.0,152.0,7.0,20.0
+389,Royal Challengers Bangalore,180,10,190,3,20.0,Punjab Kings,183.0,11.0,194.0,4.0,17.7
+390,Sunrisers Hyderabad,121,15,136,9,20.0,Rajasthan Royals,107.0,6.0,113.0,9.0,20.0
+391,Punjab Kings,176,7,183,8,20.0,Mumbai Indians,124.0,9.0,133.0,9.0,19.1
+392,Pune Warriors,167,5,172,5,20.0,Delhi Capitals,118.0,16.0,134.0,9.0,20.0
+393,Royal Challengers Bangalore,101,5,106,2,8.0,Chennai Super Kings,80.0,2.0,82.0,6.0,8.0
+394,Kolkata Knight Riders,116,14,130,7,20.0,Sunrisers Hyderabad,123.0,9.0,132.0,5.0,18.5
+395,Chennai Super Kings,191,1,192,1,20.0,Mumbai Indians,139.0,5.0,144.0,10.0,18.4
+396,Sunrisers Hyderabad,126,6,132,7,20.0,Rajasthan Royals,131.0,4.0,135.0,6.0,19.2
+397,Rajasthan Royals,151,14,165,6,19.9,Mumbai Indians,159.0,10.0,169.0,6.0,19.5
+398,Mumbai Indians,143,5,148,9,20.0,Chennai Super Kings,116.0,9.0,125.0,9.0,19.8
+399,Kolkata Knight Riders,155,8,163,5,20.0,Mumbai Indians,117.0,5.0,122.0,7.0,20.0
+400,Delhi Capitals,135,10,145,4,20.0,Royal Challengers Bangalore,142.0,4.0,146.0,2.0,16.5
+401,Chennai Super Kings,191,14,205,4,20.0,Punjab Kings,200.0,6.0,206.0,4.0,18.5
+402,Sunrisers Hyderabad,118,15,133,6,20.0,Rajasthan Royals,130.0,5.0,135.0,6.0,19.3
+403,Mumbai Indians,103,12,115,9,20.0,Royal Challengers Bangalore,114.0,2.0,116.0,3.0,17.3
+404,Kolkata Knight Riders,152,14,166,5,19.8,Delhi Capitals,156.0,11.0,167.0,6.0,19.3
+405,Rajasthan Royals,185,6,191,5,20.0,Punjab Kings,184.0,9.0,193.0,3.0,18.4
+406,Chennai Super Kings,171,6,177,7,19.7,Delhi Capitals,82.0,2.0,84.0,9.0,15.4
+407,Punjab Kings,184,9,193,6,20.0,Sunrisers Hyderabad,113.0,8.0,121.0,10.0,19.2
+408,Chennai Super Kings,127,13,140,6,19.7,Rajasthan Royals,131.0,2.0,133.0,10.0,19.5
+409,Kolkata Knight Riders,143,7,150,7,19.7,Royal Challengers Bangalore,140.0,8.0,148.0,5.0,20.0
+410,Sunrisers Hyderabad,179,5,184,1,20.0,Delhi Capitals,174.0,6.0,180.0,4.0,20.0
+411,Mumbai Indians,140,1,141,7,20.0,Chennai Super Kings,135.0,7.0,142.0,3.0,19.0
+412,Royal Challengers Bangalore,66,4,70,10,15.0,Rajasthan Royals,68.0,3.0,71.0,4.0,13.0
+413,Punjab Kings,127,5,132,9,20.0,Kolkata Knight Riders,99.0,10.0,109.0,10.0,18.3
+414,Mumbai Indians,114,11,125,7,20.0,Delhi Capitals,117.0,9.0,126.0,4.0,18.5
+415,Sunrisers Hyderabad,129,16,145,5,20.0,Chennai Super Kings,142.0,4.0,146.0,5.0,19.3
+416,Royal Challengers Bangalore,114,10,124,8,19.7,Punjab Kings,115.0,12.0,127.0,5.0,19.0
+417,Rajasthan Royals,147,5,152,5,20.0,Kolkata Knight Riders,141.0,11.0,152.0,8.0,19.7
+418,Sunrisers Hyderabad,154,18,172,5,20.0,Mumbai Indians,148.0,9.0,157.0,7.0,20.0
+419,Chennai Super Kings,142,6,148,3,17.0,Kolkata Knight Riders,110.0,4.0,114.0,9.0,17.0
+420,Punjab Kings,155,13,168,5,20.0,Mumbai Indians,164.0,6.0,170.0,5.0,19.1
+421,Delhi Capitals,148,4,152,5,20.0,Rajasthan Royals,152.0,4.0,156.0,3.0,18.3
+422,Sunrisers Hyderabad,145,10,155,6,20.0,Royal Challengers Bangalore,153.0,5.0,158.0,6.0,19.5
+423,Rajasthan Royals,163,7,170,6,20.0,Kolkata Knight Riders,150.0,10.0,160.0,6.0,19.7
+424,Delhi Capitals,167,11,178,5,20.0,Chennai Super Kings,170.0,11.0,181.0,2.0,19.4
+425,Mumbai Indians,162,25,187,5,19.7,Royal Challengers Bangalore,158.0,10.0,168.0,8.0,19.7
+426,Delhi Capitals,152,8,160,5,20.0,Kolkata Knight Riders,149.0,12.0,161.0,2.0,18.2
+427,Punjab Kings,221,10,231,4,20.0,Chennai Super Kings,183.0,4.0,187.0,6.0,19.7
+428,Sunrisers Hyderabad,122,12,134,9,19.7,Rajasthan Royals,92.0,10.0,102.0,10.0,19.5
+429,Punjab Kings,183,15,198,8,20.0,Royal Challengers Bangalore,160.0,6.0,166.0,9.0,19.7
+430,Delhi Capitals,138,5,143,7,20.0,Sunrisers Hyderabad,33.0,11.0,44.0,2.0,4.2
+431,Mumbai Indians,152,5,157,6,19.7,Chennai Super Kings,149.0,11.0,160.0,6.0,19.4
+432,Punjab Kings,145,4,149,8,20.0,Kolkata Knight Riders,145.0,5.0,150.0,1.0,18.0
+433,Royal Challengers Bangalore,183,7,190,5,19.7,Rajasthan Royals,184.0,7.0,191.0,5.0,19.0
+434,Sunrisers Hyderabad,151,6,157,3,19.7,Mumbai Indians,157.0,3.0,160.0,3.0,18.4
+435,Rajasthan Royals,136,12,148,8,20.0,Chennai Super Kings,141.0,8.0,149.0,5.0,19.4
+436,Royal Challengers Bangalore,177,9,186,4,19.8,Delhi Capitals,160.0,10.0,170.0,7.0,20.0
+437,Sunrisers Hyderabad,190,15,205,5,19.7,Punjab Kings,207.0,4.0,211.0,4.0,18.4
+438,Mumbai Indians,134,7,141,5,20.0,Kolkata Knight Riders,137.0,5.0,142.0,4.0,18.4
+439,Rajasthan Royals,186,15,201,6,19.7,Delhi Capitals,130.0,9.0,139.0,9.0,19.7
+440,Chennai Super Kings,132,6,138,4,20.0,Royal Challengers Bangalore,129.0,13.0,142.0,5.0,19.5
+441,Sunrisers Hyderabad,132,10,142,8,19.8,Kolkata Knight Riders,145.0,1.0,146.0,3.0,19.4
+442,Mumbai Indians,172,6,178,3,20.0,Rajasthan Royals,145.0,8.0,153.0,8.0,20.0
+443,Delhi Capitals,159,5,164,7,20.0,Punjab Kings,150.0,15.0,165.0,6.0,19.4
+444,Royal Challengers Bangalore,153,7,160,6,20.0,Sunrisers Hyderabad,154.0,7.0,161.0,3.0,19.4
+445,Chennai Super Kings,151,3,154,4,19.7,Kolkata Knight Riders,152.0,4.0,156.0,2.0,18.0
+446,Punjab Kings,148,8,156,8,20.0,Mumbai Indians,149.0,10.0,159.0,3.0,19.0
+447,Kolkata Knight Riders,188,7,195,4,20.0,Royal Challengers Bangalore,155.0,10.0,165.0,5.0,20.0
+448,Chennai Super Kings,177,8,185,3,20.0,Sunrisers Hyderabad,184.0,5.0,189.0,4.0,19.4
+449,Mumbai Indians,164,9,173,10,19.4,Delhi Capitals,152.0,6.0,158.0,4.0,20.0
+450,Punjab Kings,165,14,179,4,20.0,Rajasthan Royals,156.0,7.0,163.0,8.0,20.0
+451,Royal Challengers Bangalore,148,6,154,6,19.7,Chennai Super Kings,155.0,5.0,160.0,2.0,17.4
+452,Sunrisers Hyderabad,139,21,160,7,19.7,Kolkata Knight Riders,156.0,5.0,161.0,6.0,14.3
+453,Delhi Capitals,108,7,115,10,18.1,Punjab Kings,104.0,15.0,119.0,3.0,13.5
+454,Rajasthan Royals,184,5,189,4,19.7,Mumbai Indians,188.0,7.0,195.0,5.0,14.4
+455,Kolkata Knight Riders,156,7,163,8,20.0,Punjab Kings,130.0,5.0,135.0,8.0,20.0
+456,Mumbai Indians,171,2,173,8,20.0,Chennai Super Kings,167.0,9.0,176.0,3.0,18.5
+457,Punjab Kings,215,11,226,6,20.0,Chennai Super Kings,186.0,16.0,202.0,7.0,20.0
+458,Punjab Kings,191,8,199,4,20.0,Kolkata Knight Riders,194.0,6.0,200.0,7.0,19.3
+459,Mumbai Indians,165,3,168,3,20.0,Kolkata Knight Riders,166.0,4.0,170.0,3.0,18.3
+460,Chennai Super Kings,136,14,150,7,20.0,Delhi Capitals,144.0,5.0,149.0,9.0,20.0
+461,Rajasthan Royals,141,21,162,7,20.0,Punjab Kings,127.0,9.0,136.0,8.0,20.0
+462,Chennai Super Kings,194,15,209,4,20.0,Sunrisers Hyderabad,153.0,11.0,164.0,6.0,20.0
+463,Kolkata Knight Riders,171,6,177,6,19.7,Royal Challengers Bangalore,171.0,8.0,179.0,7.0,19.0
+464,Delhi Capitals,175,9,184,3,20.0,Rajasthan Royals,180.0,6.0,186.0,7.0,20.0
+465,Punjab Kings,171,6,177,5,19.7,Mumbai Indians,151.0,8.0,159.0,7.0,20.0
+466,Royal Challengers Bangalore,150,16,166,10,19.5,Sunrisers Hyderabad,156.0,16.0,172.0,2.0,17.2
+467,Mumbai Indians,159,5,164,6,20.0,Rajasthan Royals,161.0,4.0,165.0,3.0,19.1
+468,Chennai Super Kings,145,20,165,9,20.0,Kolkata Knight Riders,159.0,10.0,169.0,3.0,19.5
+469,Punjab Kings,157,8,165,7,20.0,Delhi Capitals,158.0,11.0,169.0,5.0,19.5
+470,Sunrisers Hyderabad,121,6,127,5,20.0,Rajasthan Royals,124.0,7.0,131.0,4.0,20.0
+471,Mumbai Indians,176,7,183,7,20.0,Chennai Super Kings,178.0,11.0,189.0,4.0,16.5
+472,Delhi Capitals,158,9,167,4,20.0,Sunrisers Hyderabad,159.0,4.0,163.0,8.0,20.0
+473,Punjab Kings,142,13,155,9,20.0,Kolkata Knight Riders,157.0,2.0,159.0,6.0,17.5
+474,Chennai Super Kings,150,6,156,4,20.0,Rajasthan Royals,156.0,1.0,157.0,2.0,18.2
+475,Mumbai Indians,192,17,209,7,19.7,Royal Challengers Bangalore,175.0,16.0,191.0,7.0,20.0
+476,Delhi Capitals,133,13,146,8,20.0,Kolkata Knight Riders,140.0,7.0,147.0,4.0,18.1
+477,Rajasthan Royals,181,10,191,6,20.0,Punjab Kings,186.0,5.0,191.0,6.0,20.0
+478,Sunrisers Hyderabad,172,4,176,4,19.7,Kolkata Knight Riders,98.0,3.0,101.0,4.0,12.0
+479,Chennai Super Kings,171,10,181,8,20.0,Royal Challengers Bangalore,148.0,6.0,154.0,8.0,20.0
+480,Delhi Capitals,182,8,190,4,20.0,Mumbai Indians,142.0,11.0,153.0,9.0,20.0
+481,Rajasthan Royals,126,4,130,9,20.0,Royal Challengers Bangalore,129.0,5.0,134.0,1.0,16.1
+482,Mumbai Indians,147,10,157,8,19.7,Sunrisers Hyderabad,132.0,5.0,137.0,8.0,20.0
+483,Chennai Super Kings,180,12,192,3,20.0,Punjab Kings,87.0,8.0,95.0,9.0,20.0
+484,Delhi Capitals,87,8,95,10,18.2,Royal Challengers Bangalore,97.0,2.0,99.0,0.0,10.3
+485,Sunrisers Hyderabad,149,1,150,6,20.0,Punjab Kings,123.0,7.0,130.0,9.0,20.0
+486,Kolkata Knight Riders,159,12,171,7,20.0,Delhi Capitals,151.0,7.0,158.0,6.0,19.7
+487,Royal Challengers Bangalore,184,16,200,7,20.0,,,,,,
+488,Chennai Super Kings,122,12,134,6,20.0,Kolkata Knight Riders,127.0,5.0,132.0,9.0,20.0
+489,Punjab Kings,110,8,118,8,20.0,Delhi Capitals,111.0,8.0,119.0,1.0,14.0
+490,Mumbai Indians,178,9,187,5,20.0,Rajasthan Royals,167.0,12.0,179.0,7.0,19.7
+491,Kolkata Knight Riders,103,8,111,4,9.8,Royal Challengers Bangalore,111.0,4.0,115.0,3.0,9.4
+492,Sunrisers Hyderabad,187,5,192,7,20.0,Chennai Super Kings,163.0,7.0,170.0,6.0,19.7
+493,Mumbai Indians,167,5,172,3,19.7,Punjab Kings,137.0,12.0,149.0,7.0,20.0
+494,Rajasthan Royals,181,8,189,2,20.0,Delhi Capitals,160.0,15.0,175.0,7.0,19.7
+495,Chennai Super Kings,143,5,148,9,19.7,Royal Challengers Bangalore,122.0,2.0,124.0,10.0,19.4
+496,Kolkata Knight Riders,160,7,167,7,20.0,Sunrisers Hyderabad,128.0,4.0,132.0,9.0,20.0
+497,Delhi Capitals,148,4,152,6,20.0,Mumbai Indians,144.0,9.0,153.0,5.0,19.3
+498,Royal Challengers Bangalore,215,11,226,3,20.0,Punjab Kings,79.0,9.0,88.0,10.0,13.4
+499,Sunrisers Hyderabad,186,15,201,4,19.7,Rajasthan Royals,187.0,7.0,194.0,7.0,20.0
+500,Chennai Super Kings,152,6,158,5,20.0,Mumbai Indians,157.0,2.0,159.0,4.0,19.2
+501,Punjab Kings,174,9,183,5,20.0,Kolkata Knight Riders,177.0,7.0,184.0,9.0,19.5
+502,Sunrisers Hyderabad,159,4,163,4,20.0,Delhi Capitals,153.0,4.0,157.0,4.0,20.0
+503,Royal Challengers Bangalore,228,7,235,1,20.0,Mumbai Indians,192.0,4.0,196.0,7.0,20.0
+504,Chennai Super Kings,149,8,157,5,20.0,Rajasthan Royals,139.0,6.0,145.0,9.0,19.7
+505,Sunrisers Hyderabad,180,5,185,5,20.0,Punjab Kings,173.0,7.0,180.0,7.0,20.0
+506,Chennai Super Kings,112,7,119,6,20.0,Delhi Capitals,120.0,0.0,120.0,4.0,16.4
+507,Punjab Kings,102,4,106,6,10.0,Royal Challengers Bangalore,76.0,8.0,84.0,6.0,9.7
+508,Mumbai Indians,161,10,171,4,19.7,Kolkata Knight Riders,158.0,8.0,166.0,7.0,19.7
+509,Sunrisers Hyderabad,128,7,135,3,11.0,Royal Challengers Bangalore,82.0,1.0,83.0,4.0,5.5
+510,Punjab Kings,121,9,130,7,20.0,Chennai Super Kings,128.0,6.0,134.0,3.0,16.5
+511,Rajasthan Royals,189,10,199,6,20.0,Kolkata Knight Riders,164.0,26.0,190.0,9.0,20.0
+512,Delhi Capitals,181,6,187,5,20.0,Royal Challengers Bangalore,2.0,0.0,2.0,0.0,1.1
+513,Sunrisers Hyderabad,107,6,113,10,20.0,Mumbai Indians,106.0,8.0,114.0,1.0,13.5
+514,Mumbai Indians,178,9,187,6,19.9,Chennai Super Kings,154.0,8.0,162.0,10.0,19.0
+515,Royal Challengers Bangalore,168,12,180,4,20.0,Rajasthan Royals,106.0,3.0,109.0,10.0,19.0
+516,Royal Challengers Bangalore,132,7,139,8,19.7,Chennai Super Kings,133.0,7.0,140.0,7.0,19.5
+517,Mumbai Indians,196,6,202,5,20.0,Chennai Super Kings,154.0,7.0,161.0,8.0,20.0
+518,Mumbai Indians,108,13,121,8,20.0,Rising Pune Supergiants,121.0,5.0,126.0,1.0,14.4
+519,Delhi Capitals,86,12,98,10,17.4,Kolkata Knight Riders,88.0,11.0,99.0,1.0,14.2
+520,Punjab Kings,154,7,161,6,20.0,Gujarat Lions,156.0,6.0,162.0,5.0,17.4
+521,Royal Challengers Bangalore,220,7,227,4,20.0,Sunrisers Hyderabad,171.0,11.0,182.0,6.0,19.7
+522,Kolkata Knight Riders,177,10,187,5,20.0,Mumbai Indians,178.0,10.0,188.0,4.0,19.1
+523,Rising Pune Supergiants,161,2,163,5,20.0,Gujarat Lions,149.0,15.0,164.0,3.0,18.1
+524,Punjab Kings,107,4,111,9,20.0,Delhi Capitals,103.0,10.0,113.0,2.0,13.3
+525,Sunrisers Hyderabad,134,8,142,7,20.0,Kolkata Knight Riders,141.0,5.0,146.0,2.0,18.2
+526,Mumbai Indians,133,10,143,8,20.0,Gujarat Lions,136.0,11.0,147.0,7.0,20.0
+527,Rising Pune Supergiants,141,11,152,7,20.0,Punjab Kings,151.0,2.0,153.0,4.0,18.4
+528,Royal Challengers Bangalore,182,9,191,5,20.0,Delhi Capitals,178.0,14.0,192.0,3.0,19.1
+529,Mumbai Indians,134,8,142,6,20.0,Sunrisers Hyderabad,140.0,5.0,145.0,3.0,17.3
+530,Punjab Kings,131,7,138,8,20.0,Kolkata Knight Riders,133.0,8.0,141.0,4.0,17.1
+531,Royal Challengers Bangalore,157,13,170,7,20.0,Mumbai Indians,167.0,4.0,171.0,4.0,18.0
+532,Gujarat Lions,130,5,135,8,20.0,Sunrisers Hyderabad,127.0,10.0,137.0,0.0,14.5
+533,Royal Challengers Bangalore,173,12,185,3,19.7,Rising Pune Supergiants,165.0,7.0,172.0,9.0,20.0
+534,Delhi Capitals,152,12,164,4,19.7,Mumbai Indians,151.0,3.0,154.0,7.0,20.0
+535,Punjab Kings,138,5,143,6,20.0,Sunrisers Hyderabad,141.0,5.0,146.0,5.0,17.5
+536,Royal Challengers Bangalore,177,3,180,2,19.7,Gujarat Lions,168.0,14.0,182.0,4.0,19.5
+537,Rising Pune Supergiants,154,6,160,5,20.0,Kolkata Knight Riders,152.0,10.0,162.0,8.0,19.3
+538,Mumbai Indians,184,5,189,6,20.0,Punjab Kings,159.0,5.0,164.0,7.0,20.0
+539,Sunrisers Hyderabad,110,8,118,8,20.0,Rising Pune Supergiants,81.0,13.0,94.0,3.0,10.7
+540,Gujarat Lions,169,3,172,6,20.0,Delhi Capitals,168.0,3.0,171.0,5.0,20.0
+541,Kolkata Knight Riders,173,1,174,5,20.0,Mumbai Indians,173.0,5.0,178.0,4.0,17.7
+542,Rising Pune Supergiants,188,7,195,3,20.0,Gujarat Lions,189.0,7.0,196.0,7.0,19.7
+543,Delhi Capitals,176,10,186,8,20.0,Kolkata Knight Riders,146.0,13.0,159.0,10.0,18.4
+544,Sunrisers Hyderabad,189,5,194,5,19.7,Royal Challengers Bangalore,176.0,3.0,179.0,6.0,20.0
+545,Punjab Kings,150,4,154,10,19.5,Gujarat Lions,127.0,4.0,131.0,9.0,20.0
+546,Rising Pune Supergiants,151,8,159,5,20.0,Mumbai Indians,155.0,6.0,161.0,2.0,18.3
+547,Royal Challengers Bangalore,181,4,185,7,20.0,Kolkata Knight Riders,170.0,19.0,189.0,5.0,19.1
+548,Gujarat Lions,143,6,149,7,20.0,Delhi Capitals,147.0,3.0,150.0,2.0,17.2
+549,Kolkata Knight Riders,159,5,164,3,20.0,Punjab Kings,145.0,12.0,157.0,9.0,20.0
+550,Delhi Capitals,154,8,162,7,20.0,Rising Pune Supergiants,155.0,11.0,166.0,3.0,19.2
+551,Gujarat Lions,121,5,126,6,20.0,Sunrisers Hyderabad,123.0,6.0,129.0,5.0,18.7
+552,Rising Pune Supergiants,184,7,191,6,20.0,Royal Challengers Bangalore,189.0,6.0,195.0,3.0,19.3
+553,Punjab Kings,173,8,181,5,19.7,Delhi Capitals,163.0,9.0,172.0,5.0,20.0
+554,Sunrisers Hyderabad,172,5,177,3,20.0,Mumbai Indians,86.0,6.0,92.0,10.0,16.3
+555,Kolkata Knight Riders,152,6,158,4,19.7,Gujarat Lions,159.0,5.0,164.0,5.0,18.0
+556,Royal Challengers Bangalore,171,4,175,6,19.7,Punjab Kings,169.0,5.0,174.0,4.0,20.0
+557,Sunrisers Hyderabad,132,5,137,8,20.0,Rising Pune Supergiants,130.0,3.0,133.0,8.0,20.0
+558,Royal Challengers Bangalore,144,7,151,4,19.7,Mumbai Indians,143.0,10.0,153.0,4.0,19.0
+559,Sunrisers Hyderabad,135,11,146,8,19.7,Delhi Capitals,147.0,3.0,150.0,3.0,18.1
+560,Mumbai Indians,116,8,124,9,20.0,Punjab Kings,116.0,11.0,127.0,3.0,17.0
+561,Royal Challengers Bangalore,244,4,248,3,20.0,Gujarat Lions,92.0,12.0,104.0,10.0,18.4
+562,Rising Pune Supergiants,97,6,103,6,17.4,Kolkata Knight Riders,56.0,10.0,66.0,2.0,4.7
+563,Punjab Kings,176,3,179,4,20.0,Sunrisers Hyderabad,171.0,9.0,180.0,3.0,19.5
+564,Mumbai Indians,199,7,206,4,20.0,Delhi Capitals,123.0,3.0,126.0,10.0,19.1
+565,Kolkata Knight Riders,171,12,183,5,19.7,Royal Challengers Bangalore,183.0,3.0,186.0,1.0,18.4
+566,Delhi Capitals,119,2,121,6,20.0,Rising Pune Supergiants,69.0,7.0,76.0,1.0,11.0
+567,Royal Challengers Bangalore,203,8,211,3,15.0,Punjab Kings,114.0,6.0,120.0,9.0,14.0
+568,Kolkata Knight Riders,117,7,124,8,20.0,Gujarat Lions,108.0,17.0,125.0,4.0,13.3
+569,Sunrisers Hyderabad,155,3,158,7,20.0,Delhi Capitals,147.0,14.0,161.0,4.0,20.0
+570,Punjab Kings,168,4,172,7,20.0,Rising Pune Supergiants,165.0,8.0,173.0,6.0,19.7
+571,Mumbai Indians,164,8,172,8,20.0,Gujarat Lions,167.0,6.0,173.0,4.0,17.5
+572,Kolkata Knight Riders,167,4,171,6,20.0,Sunrisers Hyderabad,138.0,11.0,149.0,8.0,20.0
+573,Delhi Capitals,132,6,138,8,20.0,Royal Challengers Bangalore,129.0,10.0,139.0,4.0,18.1
+574,Gujarat Lions,147,11,158,10,20.0,Royal Challengers Bangalore,143.0,16.0,159.0,6.0,18.2
+575,Sunrisers Hyderabad,156,6,162,8,20.0,Kolkata Knight Riders,131.0,9.0,140.0,8.0,20.0
+576,Gujarat Lions,157,5,162,7,19.7,Sunrisers Hyderabad,161.0,2.0,163.0,6.0,19.2
+577,Sunrisers Hyderabad,194,14,208,7,20.0,Royal Challengers Bangalore,191.0,9.0,200.0,7.0,20.0
+578,Sunrisers Hyderabad,200,7,207,4,20.0,Royal Challengers Bangalore,166.0,6.0,172.0,10.0,19.4
+579,Mumbai Indians,176,8,184,8,19.7,Rising Pune Supergiants,183.0,4.0,187.0,3.0,19.5
+580,Gujarat Lions,179,4,183,4,20.0,Kolkata Knight Riders,169.0,15.0,184.0,0.0,14.7
+581,Rising Pune Supergiants,157,6,163,6,20.0,Punjab Kings,154.0,10.0,164.0,4.0,18.7
+582,Royal Challengers Bangalore,151,6,157,8,20.0,Delhi Capitals,137.0,5.0,142.0,9.0,20.0
+583,Gujarat Lions,132,3,135,7,20.0,Sunrisers Hyderabad,137.0,3.0,140.0,1.0,15.3
+584,Kolkata Knight Riders,169,9,178,7,19.8,Mumbai Indians,168.0,12.0,180.0,6.0,19.5
+585,Royal Challengers Bangalore,144,4,148,4,20.0,Punjab Kings,144.0,6.0,150.0,2.0,14.3
+586,Delhi Capitals,197,8,205,4,20.0,Rising Pune Supergiants,103.0,5.0,108.0,10.0,16.1
+587,Sunrisers Hyderabad,147,11,158,8,20.0,Mumbai Indians,155.0,4.0,159.0,6.0,18.4
+588,Punjab Kings,154,16,170,9,19.7,Kolkata Knight Riders,160.0,11.0,171.0,2.0,16.3
+589,Royal Challengers Bangalore,131,11,142,5,20.0,Mumbai Indians,132.0,13.0,145.0,6.0,19.0
+590,Rising Pune Supergiants,166,5,171,8,20.0,Gujarat Lions,167.0,5.0,172.0,3.0,17.7
+591,Kolkata Knight Riders,161,11,172,6,20.0,Sunrisers Hyderabad,148.0,7.0,155.0,6.0,20.0
+592,Delhi Capitals,178,10,188,6,20.0,Punjab Kings,135.0,2.0,137.0,9.0,20.0
+593,Gujarat Lions,165,11,176,4,20.0,Mumbai Indians,164.0,13.0,177.0,4.0,19.3
+594,Rising Pune Supergiants,148,13,161,8,20.0,Royal Challengers Bangalore,126.0,8.0,134.0,9.0,20.0
+595,Delhi Capitals,165,3,168,7,20.0,Kolkata Knight Riders,158.0,11.0,169.0,6.0,19.5
+596,Sunrisers Hyderabad,148,11,159,6,20.0,Punjab Kings,144.0,10.0,154.0,10.0,20.0
+597,Royal Challengers Bangalore,209,4,213,2,20.0,Gujarat Lions,184.0,8.0,192.0,7.0,20.0
+598,Sunrisers Hyderabad,187,4,191,4,20.0,Delhi Capitals,169.0,7.0,176.0,5.0,20.0
+599,Punjab Kings,186,12,198,4,19.7,Mumbai Indians,191.0,8.0,199.0,2.0,15.3
+600,Kolkata Knight Riders,184,3,187,5,20.0,Gujarat Lions,183.0,5.0,188.0,6.0,18.2
+601,Mumbai Indians,126,16,142,8,20.0,Delhi Capitals,120.0,8.0,128.0,7.0,19.7
+602,Sunrisers Hyderabad,168,8,176,3,20.0,Rising Pune Supergiants,176.0,3.0,179.0,4.0,20.0
+603,Punjab Kings,183,5,188,7,20.0,Gujarat Lions,155.0,7.0,162.0,7.0,20.0
+604,Kolkata Knight Riders,123,8,131,10,19.3,Royal Challengers Bangalore,42.0,7.0,49.0,10.0,9.4
+605,Rising Pune Supergiants,156,4,160,6,20.0,Mumbai Indians,151.0,6.0,157.0,8.0,20.0
+606,Rising Pune Supergiants,175,7,182,5,19.7,Kolkata Knight Riders,171.0,13.0,184.0,3.0,18.1
+607,Royal Challengers Bangalore,122,12,134,10,20.0,Gujarat Lions,127.0,8.0,135.0,3.0,13.5
+608,Delhi Capitals,153,7,160,6,20.0,Kolkata Knight Riders,151.0,10.0,161.0,3.0,16.3
+609,Sunrisers Hyderabad,204,3,207,3,20.0,Punjab Kings,176.0,5.0,181.0,9.0,20.0
+610,Rising Pune Supergiants,153,4,157,3,20.0,Royal Challengers Bangalore,92.0,4.0,96.0,9.0,20.0
+611,Gujarat Lions,142,11,153,9,20.0,Mumbai Indians,152.0,1.0,153.0,10.0,20.0
+612,Delhi Capitals,62,5,67,10,17.1,Punjab Kings,66.0,2.0,68.0,0.0,7.5
+613,Sunrisers Hyderabad,201,8,209,3,20.0,Kolkata Knight Riders,156.0,5.0,161.0,7.0,20.0
+614,Royal Challengers Bangalore,158,4,162,8,20.0,Mumbai Indians,158.0,7.0,165.0,6.0,20.0
+615,Gujarat Lions,154,7,161,10,19.5,Rising Pune Supergiants,160.0,7.0,167.0,5.0,19.5
+616,Sunrisers Hyderabad,177,8,185,3,19.7,Delhi Capitals,186.0,3.0,189.0,4.0,19.1
+617,Kolkata Knight Riders,150,5,155,8,20.0,Rising Pune Supergiants,150.0,8.0,158.0,6.0,19.2
+618,Gujarat Lions,203,5,208,7,19.7,Delhi Capitals,202.0,12.0,214.0,3.0,17.4
+619,Punjab Kings,126,12,138,7,19.7,Royal Challengers Bangalore,112.0,7.0,119.0,10.0,19.0
+620,Rising Pune Supergiants,141,7,148,8,20.0,Sunrisers Hyderabad,134.0,2.0,136.0,9.0,20.0
+621,Mumbai Indians,193,19,212,3,19.8,Delhi Capitals,63.0,3.0,66.0,10.0,13.4
+622,Royal Challengers Bangalore,155,3,158,6,20.0,Kolkata Knight Riders,153.0,6.0,159.0,4.0,15.1
+623,Punjab Kings,186,3,189,3,20.0,Gujarat Lions,186.0,6.0,192.0,4.0,20.0
+624,Mumbai Indians,128,10,138,7,19.7,Sunrisers Hyderabad,136.0,4.0,140.0,3.0,18.2
+625,Punjab Kings,155,12,167,6,20.0,Kolkata Knight Riders,149.0,4.0,153.0,6.0,20.0
+626,Gujarat Lions,184,11,195,5,20.0,Delhi Capitals,194.0,3.0,197.0,8.0,19.4
+627,Punjab Kings,220,10,230,3,19.7,Mumbai Indians,215.0,8.0,223.0,6.0,20.0
+628,Delhi Capitals,161,7,168,8,20.0,Rising Pune Supergiants,151.0,10.0,161.0,7.0,19.7
+629,Gujarat Lions,148,6,154,10,19.2,Sunrisers Hyderabad,154.0,4.0,158.0,2.0,18.1
+630,Mumbai Indians,156,17,173,5,19.7,Kolkata Knight Riders,156.0,8.0,164.0,8.0,20.0
+631,Punjab Kings,70,3,73,10,15.5,Rising Pune Supergiants,77.0,1.0,78.0,1.0,12.0
+632,Royal Challengers Bangalore,152,9,161,6,19.8,Delhi Capitals,144.0,7.0,151.0,10.0,20.0
+633,Rising Pune Supergiants,155,7,162,4,20.0,Mumbai Indians,133.0,9.0,142.0,9.0,20.0
+634,Sunrisers Hyderabad,121,7,128,7,19.7,Kolkata Knight Riders,44.0,4.0,48.0,3.0,5.2
+635,Kolkata Knight Riders,100,7,107,10,18.5,Mumbai Indians,103.0,8.0,111.0,4.0,14.4
+636,Mumbai Indians,121,8,129,8,19.8,Rising Pune Supergiants,119.0,9.0,128.0,6.0,20.0
+637,Mumbai Indians,161,4,165,4,20.0,Chennai Super Kings,162.0,7.0,169.0,9.0,19.5
+638,Delhi Capitals,160,6,166,7,20.0,Punjab Kings,166.0,1.0,167.0,4.0,19.0
+639,Royal Challengers Bangalore,170,6,176,7,20.0,Kolkata Knight Riders,164.0,13.0,177.0,6.0,19.0
+640,Rajasthan Royals,117,8,125,9,20.0,Sunrisers Hyderabad,119.0,8.0,127.0,1.0,15.5
+641,Kolkata Knight Riders,197,5,202,6,20.0,Chennai Super Kings,198.0,7.0,205.0,5.0,19.7
+642,Rajasthan Royals,150,3,153,5,18.0,Delhi Capitals,57.0,3.0,60.0,4.0,6.0
+643,Mumbai Indians,139,8,147,8,19.7,Sunrisers Hyderabad,147.0,4.0,151.0,9.0,19.7
+644,Punjab Kings,149,6,155,10,19.3,Royal Challengers Bangalore,155.0,4.0,159.0,6.0,19.3
+645,Mumbai Indians,184,10,194,7,20.0,Delhi Capitals,193.0,2.0,195.0,3.0,20.0
+646,Kolkata Knight Riders,131,7,138,8,20.0,Sunrisers Hyderabad,134.0,5.0,139.0,5.0,19.0
+647,Rajasthan Royals,203,14,217,4,19.7,Royal Challengers Bangalore,192.0,6.0,198.0,6.0,20.0
+648,Punjab Kings,196,1,197,7,20.0,Chennai Super Kings,180.0,13.0,193.0,5.0,19.7
+649,Kolkata Knight Riders,194,6,200,9,20.0,Delhi Capitals,121.0,8.0,129.0,10.0,14.2
+650,Mumbai Indians,196,17,213,6,19.8,Royal Challengers Bangalore,160.0,7.0,167.0,8.0,20.0
+651,Rajasthan Royals,155,5,160,8,19.9,Kolkata Knight Riders,160.0,3.0,163.0,3.0,19.0
+652,Punjab Kings,185,8,193,3,20.0,Sunrisers Hyderabad,165.0,13.0,178.0,5.0,19.7
+653,Chennai Super Kings,198,6,204,5,19.8,Rajasthan Royals,132.0,8.0,140.0,10.0,18.3
+654,Kolkata Knight Riders,182,9,191,7,19.7,Punjab Kings,124.0,2.0,126.0,1.0,11.1
+655,Delhi Capitals,162,12,174,5,20.0,Royal Challengers Bangalore,172.0,4.0,176.0,4.0,18.0
+656,Chennai Super Kings,178,4,182,3,20.0,Sunrisers Hyderabad,176.0,2.0,178.0,6.0,20.0
+657,Mumbai Indians,162,5,167,7,19.7,Rajasthan Royals,162.0,6.0,168.0,7.0,19.4
+658,Punjab Kings,129,14,143,8,19.7,Delhi Capitals,130.0,9.0,139.0,8.0,20.0
+659,Sunrisers Hyderabad,106,12,118,10,18.4,Mumbai Indians,85.0,2.0,87.0,10.0,18.5
+660,Royal Challengers Bangalore,197,8,205,8,19.7,Chennai Super Kings,196.0,11.0,207.0,5.0,19.4
+661,Sunrisers Hyderabad,124,8,132,6,20.0,Punjab Kings,117.0,2.0,119.0,10.0,19.2
+662,Delhi Capitals,215,4,219,4,19.7,Kolkata Knight Riders,160.0,4.0,164.0,9.0,19.7
+663,Chennai Super Kings,162,7,169,5,20.0,Mumbai Indians,160.0,10.0,170.0,2.0,19.4
+664,Sunrisers Hyderabad,150,1,151,7,20.0,Rajasthan Royals,139.0,1.0,140.0,6.0,20.0
+665,Royal Challengers Bangalore,165,10,175,4,20.0,Kolkata Knight Riders,168.0,8.0,176.0,5.0,19.1
+666,Chennai Super Kings,204,7,211,4,20.0,Delhi Capitals,190.0,8.0,198.0,5.0,19.8
+667,Royal Challengers Bangalore,161,6,167,7,19.7,Mumbai Indians,130.0,23.0,153.0,7.0,20.0
+668,Delhi Capitals,189,7,196,6,17.1,Rajasthan Royals,142.0,4.0,146.0,5.0,11.7
+669,Chennai Super Kings,170,7,177,5,20.0,Kolkata Knight Riders,168.0,12.0,180.0,4.0,17.5
+670,Punjab Kings,164,10,174,6,19.7,Mumbai Indians,170.0,6.0,176.0,4.0,19.0
+671,Royal Challengers Bangalore,123,4,127,9,20.0,Chennai Super Kings,121.0,7.0,128.0,4.0,17.8
+672,Delhi Capitals,160,3,163,5,20.0,Sunrisers Hyderabad,158.0,6.0,164.0,3.0,19.5
+673,Mumbai Indians,175,6,181,4,19.7,Kolkata Knight Riders,159.0,9.0,168.0,6.0,20.0
+674,Rajasthan Royals,144,8,152,9,20.0,Punjab Kings,152.0,3.0,155.0,4.0,18.4
+675,Sunrisers Hyderabad,137,9,146,10,20.0,Royal Challengers Bangalore,136.0,5.0,141.0,6.0,20.0
+676,Rajasthan Royals,155,3,158,8,20.0,Punjab Kings,136.0,7.0,143.0,7.0,19.7
+677,Mumbai Indians,203,7,210,6,20.0,Kolkata Knight Riders,107.0,1.0,108.0,10.0,18.1
+678,Delhi Capitals,184,3,187,5,20.0,Sunrisers Hyderabad,189.0,2.0,191.0,1.0,18.5
+679,Chennai Super Kings,164,12,176,4,20.0,Rajasthan Royals,174.0,3.0,177.0,6.0,19.5
+680,Kolkata Knight Riders,240,5,245,6,20.0,Punjab Kings,207.0,7.0,214.0,8.0,19.7
+681,Delhi Capitals,174,7,181,4,20.0,Royal Challengers Bangalore,176.0,11.0,187.0,5.0,19.0
+682,Sunrisers Hyderabad,166,13,179,4,20.0,Chennai Super Kings,179.0,1.0,180.0,2.0,19.0
+683,Mumbai Indians,159,9,168,6,20.0,Rajasthan Royals,161.0,10.0,171.0,3.0,18.0
+684,Punjab Kings,83,5,88,10,15.1,Royal Challengers Bangalore,88.0,4.0,92.0,0.0,8.2
+685,Rajasthan Royals,140,2,142,10,19.0,Kolkata Knight Riders,143.0,2.0,145.0,4.0,18.0
+686,Mumbai Indians,175,11,186,8,19.8,Punjab Kings,174.0,9.0,183.0,5.0,19.7
+687,Royal Challengers Bangalore,214,4,218,6,20.0,Sunrisers Hyderabad,199.0,5.0,204.0,3.0,20.0
+688,Delhi Capitals,153,9,162,5,20.0,Chennai Super Kings,126.0,2.0,128.0,6.0,20.0
+689,Rajasthan Royals,159,5,164,5,20.0,Royal Challengers Bangalore,131.0,3.0,134.0,10.0,19.2
+690,Sunrisers Hyderabad,161,11,172,9,20.0,Kolkata Knight Riders,166.0,7.0,173.0,5.0,19.4
+691,Delhi Capitals,162,12,174,4,19.7,Mumbai Indians,156.0,7.0,163.0,10.0,19.3
+692,Punjab Kings,142,11,153,10,19.4,Chennai Super Kings,150.0,9.0,159.0,5.0,19.1
+693,Sunrisers Hyderabad,130,9,139,7,19.8,Chennai Super Kings,135.0,5.0,140.0,8.0,19.1
+694,Kolkata Knight Riders,159,10,169,7,19.8,Rajasthan Royals,143.0,1.0,144.0,4.0,20.0
+695,Sunrisers Hyderabad,169,5,174,7,19.7,Kolkata Knight Riders,157.0,3.0,160.0,9.0,20.0
+696,Sunrisers Hyderabad,170,8,178,6,19.7,Chennai Super Kings,175.0,6.0,181.0,2.0,18.3
+697,Royal Challengers Bangalore,66,4,70,10,17.1,Chennai Super Kings,66.0,5.0,71.0,3.0,17.5
+698,Sunrisers Hyderabad,173,8,181,3,20.0,Kolkata Knight Riders,179.0,4.0,183.0,4.0,19.5
+699,Delhi Capitals,207,6,213,6,20.0,Mumbai Indians,167.0,9.0,176.0,9.0,19.2
+700,Punjab Kings,168,16,184,4,19.7,Rajasthan Royals,165.0,5.0,170.0,9.0,20.0
+701,Delhi Capitals,140,7,147,6,20.0,Chennai Super Kings,142.0,8.0,150.0,4.0,19.4
+702,Kolkata Knight Riders,213,5,218,4,20.0,Punjab Kings,184.0,6.0,190.0,4.0,20.0
+703,Mumbai Indians,177,10,187,8,19.7,Royal Challengers Bangalore,176.0,5.0,181.0,5.0,20.0
+704,Rajasthan Royals,193,5,198,2,19.7,Sunrisers Hyderabad,195.0,6.0,201.0,5.0,18.7
+705,Mumbai Indians,169,7,176,7,20.0,Punjab Kings,169.0,8.0,177.0,2.0,18.4
+706,Kolkata Knight Riders,177,8,185,8,20.0,Delhi Capitals,181.0,4.0,185.0,6.0,20.0
+707,Sunrisers Hyderabad,229,2,231,2,20.0,Royal Challengers Bangalore,105.0,8.0,113.0,10.0,19.5
+708,Chennai Super Kings,168,7,175,5,19.8,Rajasthan Royals,160.0,7.0,167.0,8.0,20.0
+709,Punjab Kings,157,9,166,9,20.0,Delhi Capitals,141.0,11.0,152.0,10.0,19.2
+710,Royal Challengers Bangalore,153,5,158,4,20.0,Rajasthan Royals,154.0,10.0,164.0,3.0,19.5
+711,Mumbai Indians,164,6,170,5,19.8,Chennai Super Kings,119.0,14.0,133.0,8.0,20.0
+712,Delhi Capitals,124,5,129,8,20.0,Sunrisers Hyderabad,120.0,11.0,131.0,5.0,18.3
+713,Royal Challengers Bangalore,200,5,205,3,19.7,Kolkata Knight Riders,193.0,13.0,206.0,5.0,19.1
+714,Chennai Super Kings,155,5,160,3,20.0,Punjab Kings,134.0,4.0,138.0,5.0,20.0
+715,Mumbai Indians,130,6,136,7,19.7,Sunrisers Hyderabad,90.0,6.0,96.0,10.0,17.4
+716,Royal Challengers Bangalore,144,5,149,8,20.0,Delhi Capitals,140.0,12.0,152.0,6.0,18.5
+717,Rajasthan Royals,128,11,139,3,20.0,Kolkata Knight Riders,129.0,11.0,140.0,2.0,14.0
+718,Sunrisers Hyderabad,142,8,150,4,20.0,Punjab Kings,150.0,1.0,151.0,4.0,19.5
+719,Kolkata Knight Riders,104,4,108,9,20.0,Chennai Super Kings,103.0,8.0,111.0,3.0,17.3
+720,Punjab Kings,190,7,197,4,20.0,Mumbai Indians,186.0,12.0,198.0,7.0,19.7
+721,Rajasthan Royals,144,7,151,7,20.0,Chennai Super Kings,146.0,9.0,155.0,6.0,19.8
+722,Kolkata Knight Riders,173,5,178,7,20.0,Delhi Capitals,177.0,3.0,180.0,3.0,18.5
+723,Mumbai Indians,183,4,187,5,19.8,Rajasthan Royals,184.0,4.0,188.0,6.0,19.3
+724,Punjab Kings,166,7,173,4,20.0,Royal Challengers Bangalore,173.0,1.0,174.0,2.0,19.2
+725,Kolkata Knight Riders,152,9,161,8,19.7,Chennai Super Kings,160.0,2.0,162.0,5.0,19.4
+726,Delhi Capitals,146,9,155,7,19.7,Sunrisers Hyderabad,111.0,5.0,116.0,10.0,19.0
+727,Royal Challengers Bangalore,163,8,171,7,20.0,Mumbai Indians,166.0,6.0,172.0,5.0,18.7
+728,Punjab Kings,170,12,182,6,20.0,Rajasthan Royals,160.0,10.0,170.0,7.0,20.0
+729,Chennai Super Kings,125,7,132,5,20.0,Sunrisers Hyderabad,134.0,3.0,137.0,4.0,16.5
+730,Mumbai Indians,162,6,168,5,19.8,Delhi Capitals,120.0,8.0,128.0,9.0,20.0
+731,Royal Challengers Bangalore,207,6,213,4,20.0,Kolkata Knight Riders,187.0,16.0,203.0,5.0,20.0
+732,Mumbai Indians,152,9,161,5,20.0,Rajasthan Royals,156.0,6.0,162.0,5.0,19.1
+733,Punjab Kings,158,5,163,7,20.0,Delhi Capitals,155.0,11.0,166.0,5.0,19.4
+734,Kolkata Knight Riders,154,5,159,8,20.0,Sunrisers Hyderabad,155.0,6.0,161.0,1.0,15.0
+735,Royal Challengers Bangalore,157,4,161,7,20.0,Chennai Super Kings,148.0,12.0,160.0,8.0,20.0
+736,Rajasthan Royals,186,5,191,6,19.7,Delhi Capitals,192.0,1.0,193.0,4.0,19.2
+737,Sunrisers Hyderabad,171,4,175,3,20.0,Chennai Super Kings,167.0,9.0,176.0,4.0,19.5
+738,Royal Challengers Bangalore,191,11,202,4,20.0,Punjab Kings,181.0,4.0,185.0,7.0,20.0
+739,Kolkata Knight Riders,165,10,175,6,20.0,Rajasthan Royals,172.0,5.0,177.0,7.0,19.2
+740,Mumbai Indians,151,4,155,4,20.0,Chennai Super Kings,102.0,7.0,109.0,10.0,17.4
+741,Sunrisers Hyderabad,151,9,160,8,19.7,Rajasthan Royals,156.0,5.0,161.0,3.0,19.1
+742,Delhi Capitals,182,5,187,5,20.0,Royal Challengers Bangalore,166.0,5.0,171.0,7.0,19.7
+743,Kolkata Knight Riders,225,7,232,2,20.0,Mumbai Indians,192.0,6.0,198.0,7.0,20.0
+744,Sunrisers Hyderabad,192,20,212,6,19.7,Punjab Kings,160.0,7.0,167.0,8.0,20.0
+745,Royal Challengers Bangalore,59,3,62,7,4.7,Rajasthan Royals,39.0,2.0,41.0,1.0,3.2
+746,Chennai Super Kings,172,7,179,4,19.7,Delhi Capitals,99.0,0.0,99.0,10.0,16.2
+747,Mumbai Indians,154,8,162,5,20.0,Sunrisers Hyderabad,159.0,3.0,162.0,6.0,20.0
+748,Punjab Kings,180,3,183,6,20.0,Kolkata Knight Riders,178.0,7.0,185.0,3.0,17.7
+749,Rajasthan Royals,106,9,115,9,19.7,Delhi Capitals,116.0,5.0,121.0,5.0,16.1
+750,Sunrisers Hyderabad,171,4,175,7,19.7,Royal Challengers Bangalore,169.0,9.0,178.0,6.0,19.2
+751,Chennai Super Kings,168,2,170,5,20.0,Punjab Kings,159.0,14.0,173.0,4.0,18.0
+752,Kolkata Knight Riders,123,10,133,7,20.0,Mumbai Indians,131.0,3.0,134.0,1.0,16.1
+753,Chennai Super Kings,126,5,131,4,19.7,Mumbai Indians,124.0,8.0,132.0,4.0,18.3
+754,Sunrisers Hyderabad,152,10,162,8,19.9,Delhi Capitals,159.0,6.0,165.0,8.0,20.0
+755,Delhi Capitals,139,8,147,9,20.0,Chennai Super Kings,140.0,11.0,151.0,4.0,19.0
+756,Mumbai Indians,146,3,149,8,20.0,Chennai Super Kings,139.0,9.0,148.0,7.0,20.0
+757,Mumbai Indians,157,5,162,9,20.0,Chennai Super Kings,162.0,4.0,166.0,5.0,19.2
+758,Delhi Capitals,148,9,157,8,19.8,Punjab Kings,149.0,8.0,157.0,8.0,20.0
+759,Kolkata Knight Riders,81,3,84,8,20.0,Royal Challengers Bangalore,80.0,5.0,85.0,2.0,13.3
+760,Mumbai Indians,148,1,149,8,20.0,Sunrisers Hyderabad,143.0,8.0,151.0,0.0,17.1
+761,Rajasthan Royals,207,9,216,7,19.9,Chennai Super Kings,195.0,5.0,200.0,6.0,20.0
+762,Kolkata Knight Riders,187,7,194,6,20.0,Delhi Capitals,129.0,6.0,135.0,9.0,20.0
+763,Punjab Kings,119,7,126,7,19.7,Sunrisers Hyderabad,110.0,4.0,114.0,10.0,19.5
+764,Royal Challengers Bangalore,161,3,164,6,20.0,Mumbai Indians,158.0,8.0,166.0,5.0,19.1
+765,Delhi Capitals,170,14,184,8,20.0,Rajasthan Royals,128.0,10.0,138.0,10.0,19.4
+766,Kolkata Knight Riders,157,10,167,10,19.7,Chennai Super Kings,153.0,4.0,157.0,5.0,20.0
+767,Royal Challengers Bangalore,109,11,120,7,20.0,Sunrisers Hyderabad,115.0,6.0,121.0,5.0,14.1
+768,Mumbai Indians,185,6,191,4,20.0,Punjab Kings,136.0,7.0,143.0,8.0,20.0
+769,Kolkata Knight Riders,163,11,174,6,19.9,Rajasthan Royals,130.0,7.0,137.0,9.0,20.0
+770,Royal Challengers Bangalore,148,4,152,7,20.0,Delhi Capitals,148.0,6.0,154.0,4.0,18.8
+771,Punjab Kings,151,2,153,6,20.0,Chennai Super Kings,140.0,14.0,154.0,1.0,18.5
+772,Sunrisers Hyderabad,155,3,158,4,19.7,Rajasthan Royals,157.0,6.0,163.0,5.0,19.5
+773,Mumbai Indians,181,14,195,5,19.7,Kolkata Knight Riders,141.0,5.0,146.0,9.0,20.0
+774,Chennai Super Kings,175,4,179,4,20.0,Delhi Capitals,181.0,4.0,185.0,5.0,20.0
+775,Punjab Kings,195,11,206,3,20.0,Royal Challengers Bangalore,100.0,9.0,109.0,10.0,16.7
+776,Mumbai Indians,179,14,193,4,19.7,Rajasthan Royals,134.0,2.0,136.0,10.0,18.1
+777,Kolkata Knight Riders,160,3,163,5,20.0,Sunrisers Hyderabad,153.0,10.0,163.0,6.0,19.7
+778,Punjab Kings,174,4,178,4,19.7,Chennai Super Kings,170.0,11.0,181.0,0.0,17.4
+779,Rajasthan Royals,151,3,154,6,19.7,Royal Challengers Bangalore,155.0,3.0,158.0,2.0,19.1
+780,Delhi Capitals,226,2,228,4,20.0,Kolkata Knight Riders,197.0,13.0,210.0,8.0,20.0
+781,Sunrisers Hyderabad,156,8,164,5,19.7,Chennai Super Kings,146.0,11.0,157.0,5.0,19.7
+782,Mumbai Indians,169,7,176,6,20.0,Punjab Kings,172.0,4.0,176.0,6.0,20.0
+783,Rajasthan Royals,151,3,154,6,19.7,Sunrisers Hyderabad,149.0,7.0,156.0,2.0,18.1
+784,Delhi Capitals,186,10,196,4,20.0,Royal Challengers Bangalore,126.0,11.0,137.0,9.0,19.7
+785,Kolkata Knight Riders,143,6,149,9,20.0,Punjab Kings,147.0,3.0,150.0,2.0,18.5
+786,Chennai Super Kings,102,12,114,9,20.0,Mumbai Indians,114.0,2.0,116.0,0.0,12.2
+787,Rajasthan Royals,167,10,177,6,19.7,Royal Challengers Bangalore,166.0,13.0,179.0,3.0,19.4
+788,Kolkata Knight Riders,155,9,164,6,19.7,Punjab Kings,160.0,2.0,162.0,5.0,20.0
+789,Sunrisers Hyderabad,208,11,219,2,20.0,Delhi Capitals,122.0,9.0,131.0,10.0,19.0
+790,Royal Challengers Bangalore,157,12,169,4,19.7,Chennai Super Kings,127.0,5.0,132.0,8.0,20.0
+791,Kolkata Knight Riders,141,7,148,5,20.0,Mumbai Indians,144.0,5.0,149.0,2.0,16.5
+792,Punjab Kings,213,10,223,2,19.7,Rajasthan Royals,218.0,8.0,226.0,6.0,19.3
+793,Chennai Super Kings,162,5,167,6,20.0,Sunrisers Hyderabad,141.0,6.0,147.0,8.0,20.0
+794,Delhi Capitals,157,5,162,4,20.0,Mumbai Indians,162.0,4.0,166.0,5.0,19.4
+795,Kolkata Knight Riders,184,7,191,7,20.0,Rajasthan Royals,126.0,5.0,131.0,9.0,19.7
+796,Royal Challengers Bangalore,159,12,171,6,20.0,Punjab Kings,165.0,12.0,177.0,2.0,20.0
+797,Sunrisers Hyderabad,155,7,162,4,20.0,Delhi Capitals,136.0,11.0,147.0,7.0,20.0
+798,Chennai Super Kings,120,5,125,5,20.0,Rajasthan Royals,119.0,7.0,126.0,3.0,17.3
+799,Royal Challengers Bangalore,158,5,163,5,20.0,Sunrisers Hyderabad,138.0,15.0,153.0,10.0,19.4
+800,Delhi Capitals,105,5,110,9,20.0,Mumbai Indians,110.0,1.0,111.0,1.0,14.2
+801,Kolkata Knight Riders,170,2,172,5,20.0,Chennai Super Kings,169.0,9.0,178.0,4.0,20.0
+802,Punjab Kings,174,11,185,4,20.0,Rajasthan Royals,181.0,5.0,186.0,3.0,17.5
+803,Mumbai Indians,204,4,208,5,20.0,Sunrisers Hyderabad,159.0,15.0,174.0,7.0,20.0
+804,Delhi Capitals,167,8,175,3,20.0,Chennai Super Kings,126.0,5.0,131.0,7.0,20.0
+805,Royal Challengers Bangalore,185,9,194,2,19.7,Kolkata Knight Riders,106.0,6.0,112.0,9.0,20.0
+806,Mumbai Indians,186,9,195,5,20.0,Rajasthan Royals,185.0,11.0,196.0,2.0,18.2
+807,Sunrisers Hyderabad,190,11,201,6,20.0,Punjab Kings,128.0,4.0,132.0,10.0,16.5
+808,Delhi Capitals,151,10,161,7,20.0,Rajasthan Royals,143.0,5.0,148.0,8.0,19.7
+809,Royal Challengers Bangalore,136,9,145,6,20.0,Chennai Super Kings,148.0,2.0,150.0,2.0,18.4
+810,Sunrisers Hyderabad,135,7,142,4,20.0,Kolkata Knight Riders,138.0,7.0,145.0,3.0,17.7
+811,Delhi Capitals,160,4,164,5,20.0,Punjab Kings,159.0,8.0,167.0,5.0,19.0
+812,Royal Challengers Bangalore,191,10,201,3,20.0,Mumbai Indians,196.0,5.0,201.0,5.0,20.0
+813,Mumbai Indians,196,4,200,5,20.0,Delhi Capitals,137.0,6.0,143.0,8.0,19.9
+814,Royal Challengers Bangalore,127,4,131,7,20.0,Sunrisers Hyderabad,122.0,10.0,132.0,4.0,19.4
+815,Delhi Capitals,181,8,189,3,20.0,Sunrisers Hyderabad,166.0,6.0,172.0,8.0,20.0
+816,Delhi Capitals,152,4,156,7,20.0,Mumbai Indians,153.0,4.0,157.0,5.0,18.4
+817,Mumbai Indians,155,4,159,9,20.0,Royal Challengers Bangalore,148.0,12.0,160.0,8.0,20.0
+818,Chennai Super Kings,178,10,188,7,20.0,Delhi Capitals,186.0,4.0,190.0,3.0,18.4
+819,Kolkata Knight Riders,180,7,187,6,19.7,Sunrisers Hyderabad,170.0,7.0,177.0,5.0,20.0
+820,Punjab Kings,215,6,221,6,20.0,Rajasthan Royals,208.0,9.0,217.0,7.0,20.0
+821,Mumbai Indians,145,7,152,10,20.0,Kolkata Knight Riders,130.0,12.0,142.0,7.0,20.0
+822,Royal Challengers Bangalore,139,10,149,8,19.9,Sunrisers Hyderabad,131.0,12.0,143.0,9.0,19.7
+823,Delhi Capitals,142,5,147,8,20.0,Rajasthan Royals,147.0,3.0,150.0,7.0,19.4
+824,Punjab Kings,102,4,106,8,19.7,Chennai Super Kings,100.0,7.0,107.0,4.0,15.4
+825,Mumbai Indians,139,11,150,5,20.0,Sunrisers Hyderabad,132.0,5.0,137.0,10.0,19.4
+826,Royal Challengers Bangalore,196,8,204,4,19.7,Kolkata Knight Riders,162.0,4.0,166.0,8.0,20.0
+827,Punjab Kings,187,8,195,4,20.0,Delhi Capitals,187.0,11.0,198.0,4.0,18.3
+828,Chennai Super Kings,174,14,188,9,19.7,Rajasthan Royals,130.0,13.0,143.0,9.0,19.8
+829,Mumbai Indians,132,5,137,9,20.0,Delhi Capitals,128.0,10.0,138.0,4.0,19.2
+830,Punjab Kings,109,11,120,10,19.4,Sunrisers Hyderabad,116.0,5.0,121.0,1.0,18.5
+831,Chennai Super Kings,207,13,220,3,20.0,Kolkata Knight Riders,188.0,14.0,202.0,10.0,19.1
+832,Rajasthan Royals,164,13,177,9,20.0,Royal Challengers Bangalore,173.0,8.0,181.0,0.0,16.4
+833,Mumbai Indians,125,6,131,6,20.0,Punjab Kings,128.0,4.0,132.0,1.0,17.4
+834,Kolkata Knight Riders,124,9,133,9,20.0,Rajasthan Royals,120.0,14.0,134.0,4.0,18.5
+835,Chennai Super Kings,185,6,191,4,19.7,Royal Challengers Bangalore,114.0,8.0,122.0,9.0,20.0
+836,Delhi Capitals,155,4,159,4,20.0,Sunrisers Hyderabad,150.0,9.0,159.0,7.0,19.7
+837,Punjab Kings,118,5,123,9,20.0,Kolkata Knight Riders,119.0,7.0,126.0,5.0,16.4
+838,Royal Challengers Bangalore,169,2,171,5,19.7,Delhi Capitals,164.0,6.0,170.0,4.0,20.0
+839,Sunrisers Hyderabad,163,8,171,3,20.0,Chennai Super Kings,170.0,3.0,173.0,3.0,18.3
+840,Rajasthan Royals,165,6,171,4,19.7,Mumbai Indians,155.0,17.0,172.0,3.0,18.3
+841,Kolkata Knight Riders,147,7,154,6,20.0,Delhi Capitals,150.0,6.0,156.0,3.0,16.3
+842,Punjab Kings,174,5,179,5,20.0,Royal Challengers Bangalore,134.0,11.0,145.0,8.0,20.0
+843,Chennai Super Kings,208,10,218,4,19.7,Mumbai Indians,211.0,8.0,219.0,6.0,20.0
+844,Rajasthan Royals,206,14,220,3,20.0,Sunrisers Hyderabad,157.0,8.0,165.0,8.0,20.0
+845,Punjab Kings,161,5,166,6,19.8,Delhi Capitals,162.0,5.0,167.0,3.0,18.0
+846,Royal Challengers Bangalore,86,6,92,10,19.0,Kolkata Knight Riders,89.0,5.0,94.0,1.0,10.0
+847,Mumbai Indians,224,11,235,9,20.0,Sunrisers Hyderabad,183.0,10.0,193.0,8.0,20.0
+848,Chennai Super Kings,184,5,189,4,19.7,Rajasthan Royals,183.0,7.0,190.0,3.0,17.3
+849,Royal Challengers Bangalore,154,10,164,7,20.0,Punjab Kings,150.0,8.0,158.0,6.0,20.0
+850,Sunrisers Hyderabad,124,10,134,7,20.0,Chennai Super Kings,136.0,3.0,139.0,4.0,19.4
+851,Delhi Capitals,121,6,127,9,19.7,Kolkata Knight Riders,125.0,5.0,130.0,7.0,18.2
+852,Rajasthan Royals,87,3,90,9,20.0,Mumbai Indians,90.0,4.0,94.0,2.0,8.2
+853,Chennai Super Kings,125,9,134,6,19.7,Punjab Kings,134.0,5.0,139.0,4.0,13.0
+854,Sunrisers Hyderabad,137,4,141,7,19.7,Royal Challengers Bangalore,134.0,3.0,137.0,6.0,20.0
+855,Mumbai Indians,146,9,155,6,20.0,Kolkata Knight Riders,152.0,7.0,159.0,3.0,15.1
+856,Delhi Capitals,145,9,154,6,20.0,Rajasthan Royals,115.0,6.0,121.0,6.0,20.0
+857,Kolkata Knight Riders,163,8,171,6,19.7,Chennai Super Kings,167.0,5.0,172.0,8.0,20.0
+858,Punjab Kings,129,6,135,6,20.0,Mumbai Indians,135.0,2.0,137.0,4.0,19.0
+859,Rajasthan Royals,157,7,164,5,20.0,Sunrisers Hyderabad,150.0,17.0,167.0,3.0,18.3
+860,Delhi Capitals,155,9,164,5,20.0,Royal Challengers Bangalore,159.0,7.0,166.0,3.0,19.7
+861,Kolkata Knight Riders,157,8,165,7,20.0,Punjab Kings,162.0,6.0,168.0,5.0,19.3
+862,Rajasthan Royals,145,4,149,9,20.0,Royal Challengers Bangalore,145.0,8.0,153.0,3.0,17.1
+863,Chennai Super Kings,145,11,156,7,19.7,Mumbai Indians,132.0,4.0,136.0,8.0,20.0
+864,Sunrisers Hyderabad,121,13,134,9,19.8,Delhi Capitals,135.0,4.0,139.0,2.0,18.0
+865,Kolkata Knight Riders,154,17,171,4,19.7,Rajasthan Royals,84.0,1.0,85.0,10.0,16.1
+866,Punjab Kings,118,7,125,7,19.7,Sunrisers Hyderabad,113.0,7.0,120.0,7.0,19.7
+867,Royal Challengers Bangalore,154,11,165,6,20.0,Mumbai Indians,104.0,7.0,111.0,10.0,18.1
+868,Sunrisers Hyderabad,112,3,115,8,20.0,Kolkata Knight Riders,117.0,2.0,119.0,4.0,19.4
+869,Chennai Super Kings,121,15,136,5,20.0,Delhi Capitals,131.0,8.0,139.0,7.0,19.5
+870,Rajasthan Royals,176,9,185,10,20.0,Punjab Kings,174.0,9.0,183.0,4.0,20.0
+871,Mumbai Indians,123,6,129,8,20.0,Delhi Capitals,126.0,6.0,132.0,6.0,19.1
+872,Royal Challengers Bangalore,151,5,156,6,20.0,Chennai Super Kings,152.0,5.0,157.0,4.0,18.2
+873,Delhi Capitals,166,6,172,5,20.0,Chennai Super Kings,169.0,4.0,173.0,6.0,19.5
+874,Royal Challengers Bangalore,125,13,138,7,19.8,Kolkata Knight Riders,134.0,5.0,139.0,6.0,19.4
+875,Delhi Capitals,129,6,135,5,20.0,Kolkata Knight Riders,126.0,10.0,136.0,7.0,19.5
+876,Chennai Super Kings,186,6,192,3,20.0,Kolkata Knight Riders,156.0,9.0,165.0,9.0,20.0
+877,Chennai Super Kings,125,6,131,5,20.0,Kolkata Knight Riders,129.0,4.0,133.0,4.0,18.3
+878,Mumbai Indians,174,3,177,5,19.7,Delhi Capitals,168.0,11.0,179.0,6.0,18.2
+879,Royal Challengers Bangalore,182,23,205,2,20.0,Punjab Kings,186.0,22.0,208.0,5.0,18.7
+880,Lucknow Super Giants,154,4,158,6,19.7,Gujarat Titans,152.0,9.0,161.0,5.0,19.4
+881,Rajasthan Royals,196,14,210,6,20.0,Sunrisers Hyderabad,139.0,10.0,149.0,7.0,19.7
+882,Kolkata Knight Riders,122,6,128,10,18.5,Royal Challengers Bangalore,118.0,14.0,132.0,7.0,19.2
+883,Chennai Super Kings,196,14,210,7,20.0,Lucknow Super Giants,193.0,18.0,211.0,4.0,19.5
+884,Punjab Kings,126,11,137,10,18.2,Kolkata Knight Riders,135.0,6.0,141.0,4.0,14.3
+885,Rajasthan Royals,182,11,193,8,20.0,Mumbai Indians,159.0,11.0,170.0,8.0,19.7
+886,Gujarat Titans,164,7,171,6,20.0,Delhi Capitals,146.0,11.0,157.0,9.0,20.0
+887,Punjab Kings,166,14,180,8,20.0,Chennai Super Kings,122.0,4.0,126.0,10.0,18.0
+888,Lucknow Super Giants,165,4,169,7,19.7,Sunrisers Hyderabad,147.0,10.0,157.0,9.0,20.0
+889,Rajasthan Royals,161,8,169,3,19.7,Royal Challengers Bangalore,163.0,10.0,173.0,6.0,19.1
+890,Mumbai Indians,158,3,161,4,19.7,Kolkata Knight Riders,159.0,3.0,162.0,5.0,15.7
+891,Delhi Capitals,143,6,149,3,19.7,Lucknow Super Giants,149.0,6.0,155.0,4.0,19.4
+892,Punjab Kings,185,4,189,9,20.0,Gujarat Titans,183.0,7.0,190.0,4.0,19.7
+893,Chennai Super Kings,149,5,154,7,20.0,Sunrisers Hyderabad,151.0,4.0,155.0,2.0,18.0
+894,Mumbai Indians,147,4,151,6,20.0,Royal Challengers Bangalore,145.0,7.0,152.0,3.0,18.3
+895,Delhi Capitals,199,16,215,5,20.0,Kolkata Knight Riders,165.0,6.0,171.0,10.0,19.4
+896,Rajasthan Royals,156,9,165,6,20.0,Lucknow Super Giants,157.0,5.0,162.0,8.0,20.0
+897,Gujarat Titans,140,22,162,7,20.0,Sunrisers Hyderabad,162.0,6.0,168.0,3.0,19.1
+898,Chennai Super Kings,203,13,216,4,20.0,Royal Challengers Bangalore,184.0,9.0,193.0,9.0,19.7
+899,Punjab Kings,182,16,198,5,19.8,Mumbai Indians,181.0,5.0,186.0,9.0,19.7
+900,Gujarat Titans,188,4,192,4,19.7,Rajasthan Royals,152.0,3.0,155.0,9.0,20.0
+901,Kolkata Knight Riders,166,9,175,8,20.0,Sunrisers Hyderabad,164.0,12.0,176.0,3.0,17.5
+902,Lucknow Super Giants,191,8,199,4,20.0,Mumbai Indians,166.0,15.0,181.0,9.0,20.0
+903,Royal Challengers Bangalore,179,10,189,5,19.9,Delhi Capitals,168.0,5.0,173.0,7.0,20.0
+904,Punjab Kings,144,7,151,10,20.0,Sunrisers Hyderabad,144.0,8.0,152.0,3.0,18.5
+905,Chennai Super Kings,164,5,169,5,20.0,Gujarat Titans,163.0,7.0,170.0,7.0,20.0
+906,Rajasthan Royals,201,16,217,5,19.7,Kolkata Knight Riders,197.0,13.0,210.0,10.0,19.4
+907,Royal Challengers Bangalore,172,9,181,6,20.0,Lucknow Super Giants,148.0,15.0,163.0,8.0,20.0
+908,Punjab Kings,113,2,115,10,20.0,Delhi Capitals,113.0,6.0,119.0,1.0,10.3
+909,Mumbai Indians,150,5,155,7,19.7,Chennai Super Kings,148.0,8.0,156.0,7.0,20.0
+910,Rajasthan Royals,217,5,222,2,19.8,Delhi Capitals,194.0,13.0,207.0,8.0,20.0
+911,Gujarat Titans,146,10,156,9,20.0,Kolkata Knight Riders,141.0,7.0,148.0,8.0,20.0
+912,Royal Challengers Bangalore,56,12,68,10,16.1,Sunrisers Hyderabad,70.0,2.0,72.0,1.0,8.0
+913,Lucknow Super Giants,160,8,168,6,20.0,Mumbai Indians,118.0,14.0,132.0,8.0,19.7
+914,Punjab Kings,173,14,187,4,20.0,Chennai Super Kings,160.0,16.0,176.0,6.0,19.7
+915,Rajasthan Royals,141,3,144,8,20.0,Royal Challengers Bangalore,104.0,11.0,115.0,10.0,19.3
+916,Sunrisers Hyderabad,181,14,195,6,20.0,Gujarat Titans,188.0,11.0,199.0,5.0,20.0
+917,Kolkata Knight Riders,137,9,146,9,20.0,Delhi Capitals,144.0,6.0,150.0,6.0,19.0
+918,Lucknow Super Giants,141,12,153,8,20.0,Punjab Kings,118.0,15.0,133.0,8.0,20.0
+919,Royal Challengers Bangalore,163,7,170,6,19.7,Gujarat Titans,165.0,9.0,174.0,4.0,19.4
+920,Rajasthan Royals,146,12,158,6,19.7,Mumbai Indians,150.0,11.0,161.0,5.0,19.2
+921,Lucknow Super Giants,178,17,195,3,19.8,Delhi Capitals,186.0,3.0,189.0,7.0,19.7
+922,Chennai Super Kings,193,9,202,2,20.0,Sunrisers Hyderabad,184.0,5.0,189.0,6.0,19.7
+923,Rajasthan Royals,143,9,152,5,19.7,Kolkata Knight Riders,143.0,15.0,158.0,3.0,19.1
+924,Gujarat Titans,129,14,143,8,19.7,Punjab Kings,133.0,12.0,145.0,2.0,16.0
+925,Royal Challengers Bangalore,161,12,173,8,20.0,Chennai Super Kings,156.0,4.0,160.0,8.0,20.0
+926,Delhi Capitals,195,12,207,3,20.0,Sunrisers Hyderabad,175.0,11.0,186.0,8.0,20.0
+927,Mumbai Indians,170,7,177,6,19.7,Gujarat Titans,168.0,4.0,172.0,5.0,20.0
+928,Punjab Kings,175,14,189,5,20.0,Rajasthan Royals,183.0,7.0,190.0,4.0,19.5
+929,Lucknow Super Giants,172,4,176,7,20.0,Kolkata Knight Riders,98.0,3.0,101.0,10.0,14.3
+930,Royal Challengers Bangalore,184,8,192,3,20.0,Sunrisers Hyderabad,118.0,7.0,125.0,10.0,19.3
+931,Chennai Super Kings,196,12,208,6,20.0,Delhi Capitals,113.0,4.0,117.0,10.0,17.4
+932,Kolkata Knight Riders,154,11,165,9,20.0,Mumbai Indians,103.0,10.0,113.0,10.0,17.3
+933,Gujarat Titans,137,7,144,4,19.8,Lucknow Super Giants,79.0,3.0,82.0,10.0,13.5
+934,Rajasthan Royals,154,6,160,6,19.7,Delhi Capitals,154.0,7.0,161.0,2.0,18.1
+935,Chennai Super Kings,82,15,97,10,16.0,Mumbai Indians,93.0,10.0,103.0,5.0,14.5
+936,Punjab Kings,202,7,209,9,19.7,Royal Challengers Bangalore,145.0,10.0,155.0,9.0,20.0
+937,Kolkata Knight Riders,165,12,177,6,20.0,Sunrisers Hyderabad,120.0,3.0,123.0,8.0,19.7
+938,Chennai Super Kings,126,7,133,5,20.0,Gujarat Titans,127.0,10.0,137.0,3.0,19.1
+939,Rajasthan Royals,174,4,178,6,20.0,Lucknow Super Giants,139.0,15.0,154.0,8.0,19.7
+940,Delhi Capitals,150,9,159,7,20.0,Punjab Kings,136.0,6.0,142.0,9.0,19.7
+941,Sunrisers Hyderabad,184,9,193,6,20.0,Mumbai Indians,176.0,14.0,190.0,7.0,19.7
+942,Lucknow Super Giants,208,2,210,0,20.0,Kolkata Knight Riders,198.0,10.0,208.0,8.0,20.0
+943,Gujarat Titans,165,3,168,5,20.0,Royal Challengers Bangalore,159.0,11.0,170.0,2.0,18.4
+944,Chennai Super Kings,145,5,150,6,20.0,Rajasthan Royals,135.0,16.0,151.0,5.0,19.5
+945,Delhi Capitals,145,14,159,7,19.7,Mumbai Indians,155.0,5.0,160.0,5.0,19.2
+946,Sunrisers Hyderabad,145,12,157,8,19.7,Punjab Kings,154.0,6.0,160.0,5.0,15.1
+947,Rajasthan Royals,177,11,188,6,19.8,Gujarat Titans,178.0,13.0,191.0,3.0,19.3
+948,Royal Challengers Bangalore,197,10,207,4,19.7,Lucknow Super Giants,171.0,22.0,193.0,6.0,19.7
+949,Royal Challengers Bangalore,142,15,157,8,20.0,Rajasthan Royals,161.0,0.0,161.0,3.0,18.1
+950,Rajasthan Royals,128,2,130,9,20.0,Gujarat Titans,124.0,9.0,133.0,3.0,18.1
+951,Chennai Super Kings,170,8,178,7,20.0,Gujarat Titans,170.0,12.0,182.0,5.0,19.3
+952,Punjab Kings,187,4,191,5,20.0,Kolkata Knight Riders,140.0,6.0,146.0,7.0,16.0
+953,Lucknow Super Giants,185,8,193,6,19.8,Delhi Capitals,133.0,10.0,143.0,9.0,20.0
+954,Rajasthan Royals,195,8,203,5,20.0,Sunrisers Hyderabad,124.0,7.0,131.0,8.0,19.7
+955,Mumbai Indians,160,11,171,7,19.7,Royal Challengers Bangalore,167.0,5.0,172.0,2.0,16.3
+956,Chennai Super Kings,201,16,217,7,20.0,Lucknow Super Giants,187.0,18.0,205.0,7.0,19.8
+957,Delhi Capitals,147,15,162,8,20.0,Gujarat Titans,155.0,8.0,163.0,4.0,18.1
+958,Punjab Kings,187,10,197,5,20.0,Rajasthan Royals,182.0,10.0,192.0,7.0,20.0
+959,Kolkata Knight Riders,181,23,204,7,20.0,Royal Challengers Bangalore,117.0,6.0,123.0,10.0,17.4
+960,Sunrisers Hyderabad,117,4,121,8,20.0,Lucknow Super Giants,110.0,17.0,127.0,5.0,16.0
+961,Rajasthan Royals,193,6,199,4,20.0,Delhi Capitals,132.0,10.0,142.0,9.0,20.0
+962,Mumbai Indians,149,8,157,8,19.8,Chennai Super Kings,149.0,10.0,159.0,3.0,18.2
+963,Gujarat Titans,188,16,204,4,20.0,Kolkata Knight Riders,203.0,4.0,207.0,7.0,20.0
+964,Punjab Kings,137,6,143,9,20.0,Sunrisers Hyderabad,145.0,0.0,145.0,2.0,17.1
+965,Royal Challengers Bangalore,200,12,212,2,19.7,Lucknow Super Giants,197.0,16.0,213.0,9.0,20.0
+966,Delhi Capitals,161,11,172,10,19.4,Mumbai Indians,167.0,6.0,173.0,4.0,20.0
+967,Rajasthan Royals,165,10,175,8,20.0,Chennai Super Kings,162.0,10.0,172.0,6.0,19.8
+968,Punjab Kings,142,11,153,8,19.7,Gujarat Titans,146.0,8.0,154.0,4.0,19.5
+969,Sunrisers Hyderabad,216,12,228,4,19.7,Kolkata Knight Riders,195.0,10.0,205.0,7.0,20.0
+970,Royal Challengers Bangalore,163,11,174,6,19.7,Delhi Capitals,148.0,3.0,151.0,9.0,19.7
+971,Lucknow Super Giants,147,12,159,8,19.7,Punjab Kings,154.0,7.0,161.0,8.0,19.3
+972,Kolkata Knight Riders,171,14,185,6,20.0,Mumbai Indians,182.0,4.0,186.0,5.0,17.4
+973,Gujarat Titans,172,5,177,7,19.7,Rajasthan Royals,176.0,3.0,179.0,7.0,19.2
+974,Chennai Super Kings,219,7,226,6,20.0,Royal Challengers Bangalore,207.0,11.0,218.0,8.0,20.0
+975,Mumbai Indians,190,2,192,5,20.0,Sunrisers Hyderabad,159.0,19.0,178.0,10.0,20.0
+976,Lucknow Super Giants,148,6,154,7,20.0,Rajasthan Royals,132.0,12.0,144.0,6.0,20.0
+977,Royal Challengers Bangalore,162,12,174,4,20.0,Punjab Kings,145.0,5.0,150.0,10.0,18.3
+978,Kolkata Knight Riders,115,12,127,10,20.0,Delhi Capitals,121.0,7.0,128.0,6.0,19.3
+979,Sunrisers Hyderabad,130,4,134,7,19.7,Chennai Super Kings,136.0,2.0,138.0,3.0,18.4
+980,Gujarat Titans,134,1,135,6,20.0,Lucknow Super Giants,126.0,2.0,128.0,7.0,20.0
+981,Punjab Kings,202,12,214,8,20.0,Mumbai Indians,198.0,3.0,201.0,6.0,20.0
+982,Royal Challengers Bangalore,176,13,189,9,19.7,Rajasthan Royals,171.0,11.0,182.0,6.0,20.0
+983,Chennai Super Kings,232,3,235,4,19.7,Kolkata Knight Riders,176.0,10.0,186.0,8.0,20.0
+984,Delhi Capitals,140,4,144,9,20.0,Sunrisers Hyderabad,136.0,1.0,137.0,6.0,20.0
+985,Gujarat Titans,202,5,207,6,19.7,Mumbai Indians,147.0,5.0,152.0,9.0,20.0
+986,Kolkata Knight Riders,193,7,200,5,20.0,Royal Challengers Bangalore,173.0,6.0,179.0,8.0,19.7
+987,Rajasthan Royals,191,11,202,5,19.7,Chennai Super Kings,168.0,2.0,170.0,6.0,20.0
+988,Lucknow Super Giants,242,15,257,5,19.7,Punjab Kings,188.0,13.0,201.0,10.0,19.5
+989,Kolkata Knight Riders,176,3,179,7,20.0,Gujarat Titans,168.0,12.0,180.0,3.0,18.0
+990,Sunrisers Hyderabad,187,10,197,6,20.0,Delhi Capitals,184.0,4.0,188.0,6.0,19.8
+991,Chennai Super Kings,192,8,200,4,19.7,Punjab Kings,188.0,13.0,201.0,6.0,20.0
+992,Rajasthan Royals,187,25,212,7,19.7,Mumbai Indians,204.0,10.0,214.0,4.0,19.3
+993,Royal Challengers Bangalore,124,2,126,9,20.0,Lucknow Super Giants,101.0,7.0,108.0,10.0,19.5
+994,Delhi Capitals,125,5,130,8,20.0,Gujarat Titans,120.0,5.0,125.0,6.0,20.0
+995,Lucknow Super Giants,119,6,125,7,19.2,,,,,,
+996,Punjab Kings,197,17,214,3,20.0,Mumbai Indians,209.0,7.0,216.0,4.0,18.5
+997,Kolkata Knight Riders,163,8,171,9,20.0,Sunrisers Hyderabad,152.0,14.0,166.0,8.0,20.0
+998,Rajasthan Royals,110,8,118,10,17.5,Gujarat Titans,116.0,3.0,119.0,1.0,13.5
+999,Mumbai Indians,131,8,139,8,20.0,Chennai Super Kings,135.0,5.0,140.0,4.0,17.4
+1000,Royal Challengers Bangalore,173,8,181,4,20.0,Delhi Capitals,178.0,9.0,187.0,3.0,16.4
+1001,Gujarat Titans,221,6,227,2,20.0,Lucknow Super Giants,163.0,8.0,171.0,7.0,20.0
+1002,Rajasthan Royals,203,11,214,2,20.0,Sunrisers Hyderabad,212.0,5.0,217.0,6.0,19.7
+1003,Punjab Kings,166,13,179,7,20.0,Kolkata Knight Riders,178.0,4.0,182.0,5.0,20.0
+1004,Royal Challengers Bangalore,195,4,199,6,20.0,Mumbai Indians,186.0,14.0,200.0,4.0,16.3
+1005,Chennai Super Kings,152,15,167,8,19.7,Delhi Capitals,129.0,11.0,140.0,8.0,19.8
+1006,Kolkata Knight Riders,146,3,149,8,20.0,Rajasthan Royals,146.0,5.0,151.0,1.0,13.1
+1007,Mumbai Indians,216,2,218,5,20.0,Gujarat Titans,185.0,6.0,191.0,8.0,19.8
+1008,Sunrisers Hyderabad,177,5,182,6,20.0,Lucknow Super Giants,179.0,6.0,185.0,3.0,19.2
+1009,Punjab Kings,154,13,167,7,19.7,Delhi Capitals,132.0,4.0,136.0,8.0,20.0
+1010,Royal Challengers Bangalore,166,5,171,5,20.0,Rajasthan Royals,56.0,3.0,59.0,10.0,10.3
+1011,Chennai Super Kings,138,6,144,6,19.8,Kolkata Knight Riders,135.0,12.0,147.0,4.0,18.4
+1012,Gujarat Titans,175,13,188,9,20.0,Sunrisers Hyderabad,145.0,9.0,154.0,9.0,20.0
+1013,Lucknow Super Giants,167,10,177,4,19.8,Mumbai Indians,157.0,15.0,172.0,5.0,20.0
+1014,Delhi Capitals,208,5,213,2,19.8,Punjab Kings,188.0,10.0,198.0,8.0,19.7
+1015,Sunrisers Hyderabad,180,6,186,5,19.7,Royal Challengers Bangalore,180.0,7.0,187.0,2.0,19.3
+1016,Punjab Kings,181,6,187,5,20.0,Rajasthan Royals,180.0,9.0,189.0,6.0,19.4
+1017,Chennai Super Kings,213,10,223,3,19.9,Delhi Capitals,135.0,11.0,146.0,9.0,20.0
+1018,Lucknow Super Giants,164,12,176,8,20.0,Kolkata Knight Riders,166.0,9.0,175.0,7.0,19.8
+1019,Sunrisers Hyderabad,188,12,200,5,20.0,Mumbai Indians,195.0,6.0,201.0,2.0,18.0
+1020,Royal Challengers Bangalore,190,7,197,5,20.0,Gujarat Titans,179.0,19.0,198.0,4.0,19.3
+1021,Chennai Super Kings,167,5,172,7,19.7,Gujarat Titans,142.0,15.0,157.0,10.0,19.8
+1022,Mumbai Indians,166,16,182,8,20.0,Lucknow Super Giants,91.0,10.0,101.0,10.0,16.3
+1023,Gujarat Titans,223,10,233,3,19.7,Mumbai Indians,164.0,7.0,171.0,10.0,18.2
+1024,Gujarat Titans,210,4,214,4,20.0,Chennai Super Kings,166.0,5.0,171.0,5.0,15.0
+1025,Royal Challengers Bangalore,160,13,173,6,19.9,Chennai Super Kings,160.0,16.0,176.0,4.0,18.5
+1026,Delhi Capitals,164,10,174,9,20.0,Punjab Kings,169.0,8.0,177.0,6.0,19.4
+1027,Kolkata Knight Riders,200,8,208,7,20.0,Sunrisers Hyderabad,197.0,7.0,204.0,7.0,20.0
+1028,Rajasthan Royals,185,8,193,4,20.0,Lucknow Super Giants,159.0,14.0,173.0,6.0,19.7
+1029,Gujarat Titans,156,12,168,6,20.0,Mumbai Indians,159.0,3.0,162.0,9.0,20.0
+1030,Punjab Kings,168,8,176,6,19.7,Royal Challengers Bangalore,160.0,18.0,178.0,6.0,19.3
+1031,Chennai Super Kings,200,6,206,6,20.0,Gujarat Titans,132.0,11.0,143.0,8.0,20.0
+1032,Sunrisers Hyderabad,258,19,277,3,19.8,Mumbai Indians,235.0,11.0,246.0,5.0,20.0
+1033,Rajasthan Royals,178,7,185,5,20.0,Delhi Capitals,168.0,5.0,173.0,5.0,20.0
+1034,Royal Challengers Bangalore,178,4,182,6,20.0,Kolkata Knight Riders,171.0,15.0,186.0,3.0,16.5
+1035,Lucknow Super Giants,192,7,199,8,20.0,Punjab Kings,174.0,4.0,178.0,5.0,19.7
+1036,Sunrisers Hyderabad,158,4,162,8,20.0,Gujarat Titans,164.0,4.0,168.0,3.0,19.1
+1037,Delhi Capitals,180,11,191,5,19.8,Chennai Super Kings,158.0,13.0,171.0,6.0,20.0
+1038,Mumbai Indians,118,7,125,9,20.0,Rajasthan Royals,113.0,14.0,127.0,4.0,15.3
+1039,Lucknow Super Giants,171,10,181,5,20.0,Royal Challengers Bangalore,142.0,11.0,153.0,10.0,19.4
+1040,Kolkata Knight Riders,250,22,272,7,20.0,Delhi Capitals,150.0,16.0,166.0,10.0,17.2
+1041,Gujarat Titans,190,9,199,4,20.0,Punjab Kings,187.0,13.0,200.0,7.0,20.0
+1042,Chennai Super Kings,163,2,165,5,20.0,Sunrisers Hyderabad,160.0,6.0,166.0,4.0,18.1
+1043,Royal Challengers Bangalore,172,11,183,3,20.0,Rajasthan Royals,186.0,3.0,189.0,4.0,19.1
+1044,Mumbai Indians,220,14,234,5,20.0,Delhi Capitals,202.0,3.0,205.0,8.0,20.0
+1045,Lucknow Super Giants,158,5,163,5,20.0,Gujarat Titans,118.0,12.0,130.0,10.0,18.5
+1046,Kolkata Knight Riders,124,13,137,9,20.0,Chennai Super Kings,136.0,5.0,141.0,3.0,17.4
+1047,Sunrisers Hyderabad,175,7,182,9,20.0,Punjab Kings,173.0,7.0,180.0,6.0,19.9
+1048,Rajasthan Royals,189,7,196,3,19.8,Gujarat Titans,188.0,11.0,199.0,7.0,20.0
+1049,Royal Challengers Bangalore,186,10,196,8,19.7,Mumbai Indians,196.0,3.0,199.0,3.0,15.3
+1050,Lucknow Super Giants,157,10,167,7,19.7,Delhi Capitals,162.0,8.0,170.0,4.0,18.1
+1051,Punjab Kings,139,8,147,8,20.0,Rajasthan Royals,149.0,3.0,152.0,7.0,19.5
+1052,Lucknow Super Giants,153,8,161,7,20.0,Kolkata Knight Riders,140.0,22.0,162.0,2.0,15.4
+1053,Chennai Super Kings,198,8,206,4,19.8,Mumbai Indians,179.0,7.0,186.0,6.0,19.7
+1054,Sunrisers Hyderabad,272,15,287,3,19.8,Royal Challengers Bangalore,248.0,14.0,262.0,7.0,20.0
+1055,Kolkata Knight Riders,202,21,223,6,20.0,Rajasthan Royals,208.0,16.0,224.0,8.0,20.0
+1056,Gujarat Titans,77,12,89,10,17.3,Delhi Capitals,86.0,6.0,92.0,4.0,8.5
+1057,Mumbai Indians,181,11,192,7,19.7,Punjab Kings,162.0,21.0,183.0,10.0,19.2
+1058,Chennai Super Kings,172,4,176,6,20.0,Lucknow Super Giants,167.0,13.0,180.0,2.0,18.9
+1059,Sunrisers Hyderabad,261,5,266,7,20.0,Delhi Capitals,191.0,8.0,199.0,10.0,19.1
+1060,Kolkata Knight Riders,202,20,222,6,19.7,Royal Challengers Bangalore,212.0,9.0,221.0,10.0,20.0
+1061,Punjab Kings,138,4,142,10,20.0,Gujarat Titans,143.0,3.0,146.0,7.0,19.1
+1062,Mumbai Indians,169,10,179,9,20.0,Rajasthan Royals,177.0,6.0,183.0,1.0,18.4
+1063,Chennai Super Kings,206,4,210,4,20.0,Lucknow Super Giants,204.0,9.0,213.0,4.0,19.4
+1064,Delhi Capitals,219,5,224,4,19.7,Gujarat Titans,212.0,8.0,220.0,8.0,20.0
+1065,Royal Challengers Bangalore,199,7,206,7,20.0,Sunrisers Hyderabad,161.0,10.0,171.0,8.0,19.8
+1066,Kolkata Knight Riders,248,13,261,6,19.7,Punjab Kings,256.0,6.0,262.0,2.0,18.4
+1067,Delhi Capitals,249,8,257,4,19.7,Mumbai Indians,230.0,17.0,247.0,9.0,20.0
+1068,Lucknow Super Giants,178,18,196,5,20.0,Rajasthan Royals,195.0,4.0,199.0,3.0,19.0
+1069,Gujarat Titans,189,11,200,3,19.8,Royal Challengers Bangalore,194.0,12.0,206.0,1.0,16.0
+1070,Chennai Super Kings,203,9,212,3,20.0,Sunrisers Hyderabad,131.0,3.0,134.0,10.0,18.5
+1071,Delhi Capitals,140,13,153,9,20.0,Kolkata Knight Riders,153.0,4.0,157.0,3.0,16.3
+1072,Mumbai Indians,136,8,144,7,20.0,Lucknow Super Giants,134.0,11.0,145.0,6.0,19.2
+1073,Chennai Super Kings,144,18,162,7,19.8,Punjab Kings,153.0,10.0,163.0,3.0,18.0
+1074,Sunrisers Hyderabad,193,8,201,3,20.0,Rajasthan Royals,187.0,13.0,200.0,7.0,20.0
+1075,Kolkata Knight Riders,162,7,169,10,19.5,Mumbai Indians,135.0,10.0,145.0,10.0,18.5
+1076,Gujarat Titans,140,7,147,10,19.3,Royal Challengers Bangalore,150.0,2.0,152.0,6.0,13.4
+1077,Chennai Super Kings,161,6,167,9,19.7,Punjab Kings,130.0,9.0,139.0,9.0,20.0
+1078,Kolkata Knight Riders,222,13,235,6,19.7,Lucknow Super Giants,130.0,7.0,137.0,10.0,16.1
+1079,Sunrisers Hyderabad,159,14,173,8,19.7,Mumbai Indians,152.0,22.0,174.0,3.0,17.2
+1080,Delhi Capitals,220,1,221,8,20.0,Rajasthan Royals,186.0,15.0,201.0,8.0,20.0
+1081,Lucknow Super Giants,161,4,165,4,20.0,Sunrisers Hyderabad,164.0,3.0,167.0,0.0,9.4
+1082,Royal Challengers Bangalore,233,8,241,7,20.0,Punjab Kings,175.0,6.0,181.0,10.0,16.7
+1083,Gujarat Titans,225,6,231,3,19.8,Chennai Super Kings,189.0,7.0,196.0,8.0,20.0
+1084,Kolkata Knight Riders,151,6,157,7,16.0,Mumbai Indians,127.0,12.0,139.0,8.0,16.0
+1085,Rajasthan Royals,136,5,141,5,20.0,Chennai Super Kings,139.0,6.0,145.0,5.0,18.2
+1086,Royal Challengers Bangalore,177,10,187,9,20.0,Delhi Capitals,134.0,6.0,140.0,10.0,19.1
+1087,Delhi Capitals,200,8,208,4,20.0,Lucknow Super Giants,183.0,6.0,189.0,9.0,20.0
+1088,Rajasthan Royals,142,2,144,9,20.0,Punjab Kings,144.0,1.0,145.0,5.0,18.5
+1089,Lucknow Super Giants,203,11,214,6,19.7,Mumbai Indians,185.0,11.0,196.0,6.0,19.7
+1090,Royal Challengers Bangalore,210,8,218,5,20.0,Chennai Super Kings,176.0,15.0,191.0,7.0,20.0
+1091,Punjab Kings,204,10,214,5,19.7,Sunrisers Hyderabad,198.0,17.0,215.0,6.0,19.1
+1092,Sunrisers Hyderabad,152,7,159,10,19.3,Kolkata Knight Riders,153.0,11.0,164.0,2.0,13.4
+1093,Royal Challengers Bangalore,168,4,172,8,20.0,Rajasthan Royals,168.0,6.0,174.0,6.0,19.0
+1094,Sunrisers Hyderabad,167,8,175,9,19.7,Rajasthan Royals,134.0,5.0,139.0,7.0,20.0
+1095,Sunrisers Hyderabad,100,13,113,10,18.3,Kolkata Knight Riders,103.0,11.0,114.0,2.0,10.3
