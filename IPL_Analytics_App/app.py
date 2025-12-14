@@ -120,7 +120,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
     ))
 
     fig3.update_layout(
-        title='Cumulative Runs',
+        title='Worm graph - Score comparison',
         xaxis_title='Overs',
         yaxis_title='Cumulative Runs',
         xaxis=dict(tickmode='array', tickvals=np.arange(1, 21)),
