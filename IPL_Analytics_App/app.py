@@ -27,10 +27,9 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
     fig1.add_trace(go.Bar(
         x=np.arange(1, len(bin_sums1) + 1),
         y=bin_sums1,
-        name='1st Inning',
+        name=f'{bat_team} - 1st Inn',
         marker=dict(color='skyblue'),
-        text=[f"Runs: {bin_sums1[i]}<br>Wickets: {bin_wkts_sums1[i]}" for i in range(len(bin_sums1))],  # Wickets count as hover text
-
+        text=[f"Runs: {bin_sums1[i]}<br>Wickets: {bin_wkts_sums1[i]}" for i in range(len(bin_sums1))],  # Wickets count as hover text        
         hoverinfo='text'  # Show run and wicket count in hover
     ))
 
@@ -38,7 +37,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
     fig1.add_trace(go.Bar(
         x=np.arange(1, len(bin_sums2) + 1),
         y=bin_sums2,
-        name='2nd Inning',
+        name=f'{bow_team} - 2nd Inn',
         marker=dict(color='lightgreen'),
         text=[f"Runs: {bin_sums2[i]}<br>Wickets: {bin_wkts_sums2[i]}" for i in range(len(bin_sums2))],  # Wickets count as hover text
         hoverinfo='text'
@@ -63,7 +62,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         x=np.arange(1, len(bin_sums1) + 1),
         y=bin_sums1,
         mode='lines+markers',
-        name=bat_team,
+        name=f'{bat_team} - 1st Inn',
         marker=dict(color='red'),
         line=dict(color='green'),
         text=[f"Runs: {bin_sums1[i]}" for i in range(len(bin_sums1))],
@@ -75,7 +74,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         x=np.arange(1, len(bin_sums2) + 1),
         y=bin_sums2,
         mode='lines+markers',
-        name=bow_team,
+        name=f'{bow_team} - 2nd Inn',
         marker=dict(color='yellow'),
         line=dict(color='blue'),
         text=[f"Runs: {bin_sums2[i]}" for i in range(len(bin_sums2))],
@@ -100,7 +99,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         x=np.arange(1, len(cum_sum1) + 1),
         y=cum_sum1,
         mode='lines+markers',
-        name=bat_team,
+        name=f'{bat_team} - 1st Inn',
         marker=dict(color='red'),
         line=dict(color='green'),
         text=[f"Runs: {cum_sum1[i]}" for i in range(len(cum_sum1))],
@@ -112,7 +111,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         x=np.arange(1, len(cum_sum2) + 1),
         y=cum_sum2,
         mode='lines+markers',
-        name=bow_team,
+        name=f'{bow_team} - 2nd Inn',
         marker=dict(color='yellow'),
         line=dict(color='blue'),
         text=[f"Runs: {cum_sum2[i]}" for i in range(len(cum_sum2))],
