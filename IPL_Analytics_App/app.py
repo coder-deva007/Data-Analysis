@@ -279,7 +279,7 @@ if players is not None:
         st.header("Match Info")
         st.write(df_matches.head())
 
-        ip = st.slider("Select id:", 1, 1096)
+        ip = st.slider("Select id:", 1, 1095)
         # st.write(deliveries.match_id == ip)
         match = deliveries[deliveries.match_id == ip]
         bat_team = match['batting_team'].iloc[0]
