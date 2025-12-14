@@ -103,7 +103,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         name=bat_team,
         marker=dict(color='red'),
         line=dict(color='green'),
-        text=[f"Runs: {bin_sums1[i]}" for i in range(len(bin_sums1))],
+        text=[f"Runs: {cum_sum1[i]}" for i in range(len(cum_sum1))],
         hoverinfo='text'
     ))
 
@@ -115,7 +115,7 @@ def over_viz(bin_sums1, bin_sums2, bin_wkts_sums1, bin_wkts_sums2, cum_sum1, cum
         name=bow_team,
         marker=dict(color='yellow'),
         line=dict(color='blue'),
-        text=[f"Runs: {bin_sums2[i]}" for i in range(len(bin_sums2))],
+        text=[f"Runs: {cum_sum2[i]}" for i in range(len(cum_sum2))],
         hoverinfo='text'
     ))
 
