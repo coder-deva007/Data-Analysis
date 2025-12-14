@@ -3,6 +3,7 @@
 A **Streamlit** web application for interactive analysis and visualization of the **Indian Premier League (IPL)** data. The app provides insights into player performances, team statistics, match analytics, and interactive visualizations based on IPL match data.
 
 The project is deployed in streamlit cloud: https://ipl-analytics-app.streamlit.app/
+
 ---
 
 ## Table of Contents
