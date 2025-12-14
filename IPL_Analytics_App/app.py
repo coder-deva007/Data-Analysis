@@ -3,9 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
-import os
 
-st.write(os.getcwd())
 st.set_page_config(page_title="IPL Analytics App", layout="wide")
 
 # --------------------------------
@@ -185,7 +183,7 @@ def team_records():
     teams['Win percentage'] = np.round((teams['Wins']/teams['Matches'])*100, 2)
     return teams.sort_values('Win percentage', ascending=False).head(10).reset_index(drop=True)
     
-players = load_local_data("./data/players_clean.csv")
+players = load_local_data("/mount/src/data-analysis/IPL_Analytics_App/data/players_clean.csv")
 matches = load_local_data('./data/matches_clean.csv')
 deliveries = load_local_data('./data/deliveries_clean.csv')
 df_matches = load_local_data('./data/match_info.csv')
