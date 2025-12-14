@@ -97,11 +97,17 @@ Here’s an overview of the folder structure for this project:
 ipl-analytics-app/
 │
 ├── app.py # Main Streamlit application file
+├── data_clean.ipynb # For data cleaning
+├── data_eda.ipynb # For doing EDA on these datasets
 ├── data/ # Folder containing dataset files
-│ ├── players_clean.csv # Player performance data
-│ ├── matches_clean.csv # Match results data
-│ ├── deliveries_clean.csv# Ball-by-ball data
-│ └── match_info.csv # Match-level data
+│ ├── players.csv # Raw player dataset
+│ ├── matches.csv # Raw matches dataset
+│ ├── deliveries.csv # Raw deliveries dataset
+│ ├── player_data.csv # Another raw player_data dataset
+│ ├── players_clean.csv # Player performance cleaned data
+│ ├── matches_clean.csv # Match results cleaned data
+│ ├── deliveries_clean.csv# Ball-by-ball cleaned data
+│ └── match_info.csv # Match-level cleaned data
 ├── requirements.txt # Required Python libraries
 └── README.md # Project documentation (this file)
 ```
