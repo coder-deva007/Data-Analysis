@@ -183,10 +183,10 @@ def team_records():
     teams['Win percentage'] = np.round((teams['Wins']/teams['Matches'])*100, 2)
     return teams.sort_values('Win percentage', ascending=False).head(10).reset_index(drop=True)
     
-players = load_local_data("/mount/src/data-analysis/IPL_Analytics_App/data/players_clean.csv")
-matches = load_local_data('./data/matches_clean.csv')
-deliveries = load_local_data('./data/deliveries_clean.csv')
-df_matches = load_local_data('./data/match_info.csv')
+players = load_local_data("./IPL_Analytics_App/data/players_clean.csv")
+matches = load_local_data('./IPL_Analytics_App/data/matches_clean.csv')
+deliveries = load_local_data('./IPL_Analytics_App/data/deliveries_clean.csv')
+df_matches = load_local_data('./IPL_Analytics_App/data/match_info.csv')
 
 
 if players is not None and matches is not None and df_matches is not None and deliveries is not None:
