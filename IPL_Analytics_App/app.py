@@ -3,8 +3,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
+import os
 
 
+st.write(os.getcwd())
 st.set_page_config(page_title="IPL Analytics App", layout="wide")
 
 # --------------------------------
